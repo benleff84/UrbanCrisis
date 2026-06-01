@@ -91,6 +91,27 @@
         }
       ],
       "uuid": "3f4765d8-c294-442a-80d6-5c062f900e82"
+    },
+    {
+      "start_time": 1085,
+      "end_time": 1163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The discussion within this section illuminates the debates happening within unions in the late 1970s and early 1980s. Many workers felt that they were in a “catch-22” situation: if they fought company efforts to pursue globalization of the supply chain and automation, jobs might be saved, but the company might also go out of busines. If workers accepted these reforms, some jobs would be lost, but hopefully the company would stay in business and some jobs would be saved. In some cases, union negotiators made concessions to management that led to layoffs in order to maintain industry competitiveness, which led to some “rank and file” resentment of leadership. In the view of these critics, the union should be fighting harder rather than accepting the “management line” about the need to outsource certain parts of the production process.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Historical Context"
+        }
+      ],
+      "uuid": "46e39d11-d510-4f27-9728-7bb43eccc2b1"
     }
   ],
   "set": "Default",
