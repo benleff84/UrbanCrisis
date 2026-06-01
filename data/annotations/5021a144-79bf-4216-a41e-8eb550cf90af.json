@@ -49,6 +49,27 @@
         }
       ],
       "uuid": "8eb8efed-f093-44ca-8420-5125ddd7ae96"
+    },
+    {
+      "start_time": 954,
+      "end_time": 1023,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This section shows why even the “stabilized” US auto industry of the 1980s would never employ as many workers as it had during its mid-century height. While the cars produced by GM, Chrysler and Ford were technically “American-made,” many of the “pieces” of a car were actually produced in other countries. Between this globalization of the car supply chain and the automation discussed in the clip, far fewer American workers were needed to produce the same number of cars as would have been needed a generation before. This had devastating impacts on the economies of Detroit and other cities which relied on the tax revenue and consumer spending that came from employment in the auto industry.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Historical Context"
+        }
+      ],
+      "uuid": "bce75a1a-04c0-408b-99fb-cbcdd9b10b74"
     }
   ],
   "set": "Default",
