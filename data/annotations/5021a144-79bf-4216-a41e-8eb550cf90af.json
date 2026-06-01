@@ -20,6 +20,35 @@
         }
       ],
       "uuid": "6122f72f-8371-4e1a-aa53-575372b312a1"
+    },
+    {
+      "start_time": 931,
+      "end_time": 939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As the interviewee indicates, longer-tenured workers often kept their jobs during layoffs because union contracts often protected laborers based on seniority with “last hired first fired\" provisions. However, this meant a generation of younger workers lost their auto jobs early in their career; and furthermore, a generation of young men who would have gotten steady union jobs had they came of age in the 1950s were instead left struggling to find unemployment because they entered in the workforce in the “hard times” of the late 1970s"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Historical Context"
+        }
+      ],
+      "uuid": "8eb8efed-f093-44ca-8420-5125ddd7ae96"
     }
   ],
   "set": "Default",
