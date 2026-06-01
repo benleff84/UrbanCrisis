@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "fa654c86-d05f-4e31-9bd9-30051434d701": {
+      "label": "Middle Class Exodus to the Suburbs",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://americanarchive.org/primary_source_sets/urban-crisis/01-516-hx15m6375q",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Middle Class Exodus to the Suburbs",
+  "av_file_order": [
+    "fa654c86-d05f-4e31-9bd9-30051434d701"
+  ],
+  "created_at": "2026-06-01T17:34:09.352Z",
+  "created_by": "benleff84",
+  "updated_at": "2026-06-01T17:34:09.352Z",
+  "updated_by": "benleff84"
+}
