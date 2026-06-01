@@ -1,0 +1,1 @@
+{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://benleff84.github.io/UrbanCrisis/manifests/collection.json","type":"Collection","label":{"en":["The Urban Crisis"]},"items":[{"id":"https://benleff84.github.io/UrbanCrisis/manifests/the-middle-class-exodus.json","type":"Manifest","label":{"en":["The Middle Class Exodus"]}}]}
