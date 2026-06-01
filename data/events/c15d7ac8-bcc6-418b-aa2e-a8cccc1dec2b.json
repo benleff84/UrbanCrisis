@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "a9e02bb1-7073-450b-a994-32845c502ab5": {
+      "label": "AV File 1",
+      "file_url": "https://americanarchive.org/media/cpb-aacip-516-hx15m6375q/download",
+      "duration": 1793.726,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": false,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-06-01T17:42:24.596Z",
+  "created_by": "benleff84",
+  "label": "Local Issue; 19; To Save a City",
+  "updated_at": "2026-06-01T17:42:24.596Z",
+  "updated_by": "benleff84",
+  "rights_statement": ""
+}
