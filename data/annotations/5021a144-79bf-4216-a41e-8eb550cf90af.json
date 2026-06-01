@@ -70,6 +70,27 @@
         }
       ],
       "uuid": "bce75a1a-04c0-408b-99fb-cbcdd9b10b74"
+    },
+    {
+      "start_time": 1049,
+      "end_time": 1085,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is a reference to the federal government bailout of Chrysler in 1979. The company was facing bankruptcy, and executives argued that the country had an interest in saving the jobs of Chrysler employees and protecting an American company from losing out to foreign competition. Ultimately, the federal government gave $1.5 billion in loans to Chrysler (which was ultimately paid back with interest).\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Historical Context"
+        }
+      ],
+      "uuid": "3f4765d8-c294-442a-80d6-5c062f900e82"
     }
   ],
   "set": "Default",
