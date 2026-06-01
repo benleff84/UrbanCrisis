@@ -4,7 +4,12 @@
       "label": "AV File 1",
       "file_url": "https://americanarchive.org/media/cpb-aacip-e702335a440/download",
       "duration": 129006,
-      "file_type": "Video"
+      "file_type": "Video",
+      "caption_set": [
+        {
+          "annotation_page_id": "5021a144-79bf-4216-a41e-8eb550cf90af"
+        }
+      ]
     }
   },
   "auto_generate_web_page": false,
@@ -21,7 +26,7 @@
   "created_at": "2026-06-01T19:57:00.302Z",
   "created_by": "benleff84",
   "label": "2. The Struggles of the Auto Industry",
-  "updated_at": "2026-06-01T19:58:16.569Z",
+  "updated_at": "2026-06-01T20:05:32.744Z",
   "updated_by": "benleff84",
   "rights_statement": "",
   "av_file_order": [
