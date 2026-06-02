@@ -4,6 +4,21 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "In a mid-twentieth century American city, a young man with a high school education could have secured a stable, decent-paying job working at a local factory. By the 1980s, those manufacturing jobs were increasingly unattainable for young men—many had disappeared, and the ones that remained tended to go to established workers with seniority. As a result, youth unemployment grew to troubling levels, particularly among young men without a college education. The problem was particularly stark in Black communities that suffered from discrimination, disinvestment, and limited access to quality education. This excerpt—a Peabody Award-winning "
+        },
+        {
+          "text": "New Jersey Nightly News",
+          "italic": true
+        },
+        {
+          "text": " series on “Employment in the Changing Workplace”—documents the barriers faced by young Black men struggling to enter the workforce. Thus, by the 1980s, Black neighborhoods were populated by young men who were disconnected from the workforce and mired in poverty."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -39,7 +54,7 @@
   "created_by": "benleff84",
   "title": "4. Joblessness and Lack of Opportunity for Black Urban Youth",
   "slug": "4-joblessness-and-lack-of-opportunity-for-bl",
-  "updated_at": "2026-06-02T19:14:26.371Z",
+  "updated_at": "2026-06-02T19:28:25.858Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
