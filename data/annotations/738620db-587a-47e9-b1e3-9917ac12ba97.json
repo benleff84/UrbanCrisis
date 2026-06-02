@@ -53,6 +53,31 @@
         }
       ],
       "uuid": "e703e8f2-3d94-487e-af71-a443ee47c8a1"
+    },
+    {
+      "start_time": 1088,
+      "end_time": 1110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nhe Hackensack Meadowlands refers to a large sports complex that was built in the New Jersey suburbs across the Hudson River from New York City. 1976 saw the opening of the Meadowlands Racetrack and Giants Stadium (home to the National Football League’s New York Giants). This was an example of an economic development initiative that was outside New Jersey’s struggling urban centers. It ultimately took decades before construction could be completed on a major shopping complex mentioned in the news report. As mentioned in the clip, some opponents argued that the development would harm urban shopping districts; environmental groups also raised concerns about ecological destruction of the wetlands area.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Historical Background"
+        },
+        {
+          "category": "Context",
+          "tag": "Legacy"
+        }
+      ],
+      "uuid": "2b0fb0c5-ae6f-4f16-b86c-a82f9a4ad516"
     }
   ],
   "set": "Default",
