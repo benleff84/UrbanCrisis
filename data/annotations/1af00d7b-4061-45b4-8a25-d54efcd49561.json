@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1315,
+      "end_time": 1325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“CETA” refers to the Comprehensive Employment and Training Act, a law passed during the Nixon Administration that facilitated job training and public sector jobs for people in need of work, such as low-income high school students or the long-term unemployed. While the program wasn’t specifically an urban program, many of the jobs did go to impoverished residents of struggling cities in this era. Here, “counter-cyclical aid” refers to federal government aid given to cities during economic downturns, like what the US experienced in the mid-1970s. The logic was that local governments lost revenue during times of economic hardship (e.g., declining consumer spending led to lower sales tax revenue) but still needed to provide services to residents. Federal counter-cyclical aid could fill the fiscal gaps that might emerge as the result of a recession.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Deeper Explanation"
+        }
+      ],
+      "uuid": "c9f7f263-0a17-4dce-aabf-94ca4c915474"
+    }
+  ],
   "set": "Default",
   "event_id": "f3684f15-d346-4efe-a75f-2b4191e95b77",
   "source_id": "52e8d15b-00dc-4e60-94ce-5f1bb5f4ad5f"
