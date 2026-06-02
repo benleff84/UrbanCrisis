@@ -1,5 +1,39 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1042,
+      "end_time": 1050,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This section references a major influence peddling scandal at New Jersey’s State Housing Finance Agency, whose primary role was to provide low-interest loans to developers that would build housing for low and middle-income residents. In the late 1970s and early 1980s, journalists and government investigations found that agency officials took bribes from developers trying to secure loans for projects. The scandal led to the resignation of HFA's Executive Director, William Johnston. For more information, see the"
+            },
+            {
+              "type": "link",
+              "url": "https://www.nj.gov/sci/pdf/njhfa.pdf",
+              "children": [
+                {
+                  "text": " investigatory report"
+                }
+              ]
+            },
+            {
+              "text": " compiled in 1981\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Historical Background"
+        }
+      ],
+      "uuid": "cd908e06-88d8-4cd6-945a-8b4bd816beb6"
+    }
+  ],
   "set": "Default",
   "event_id": "b8b5c23b-a2a2-4e1b-9d99-06eb12af71c0",
   "source_id": "5ac37990-eb9f-4ed8-8927-7ae98c0f7c67"
