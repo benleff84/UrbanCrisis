@@ -28,6 +28,188 @@
       ]
     },
     {
+      "uuid": "c15d7ac8-bcc6-418b-aa2e-a8cccc1dec2b",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 570,
+      "end": 720,
+      "file": "a9e02bb1-7073-450b-a994-32845c502ab5",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "ca7e131b-6db5-47e8-b8b2-e0d85cae4f36",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 816,
+      "end": 1159,
+      "file": "818c88a2-a981-4017-9aa5-1fab6fa27f21",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "438b5975-5f81-4b32-90dd-5d40b6a920ad",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 1427,
+      "end": 1588,
+      "file": "cea38e63-4cfc-49d4-b3e4-f2f941f6ca77",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "a02a7481-6b0b-48a6-bc34-6b87bdd53832",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 1172,
+      "end": 1451,
+      "file": "b7ef0107-9088-4d70-9569-f283b6864750",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "1bda2a66-e695-4d6f-87c2-3a227da5167b",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 1225,
+      "end": 1573,
+      "file": "b79a0c08-5ed5-4101-a548-1a16d99c091f",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "9978e398-1991-4e56-9261-a8eb42b2fa7e",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 259,
+      "end": 581,
+      "file": "f3aead74-fbd4-40ad-be45-f5216d323a91",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "018c1d43-cdca-441e-8c90-ee7023c3f45a",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 437,
+      "end": 696,
+      "file": "b309e1e5-bdee-4902-b730-5d8580d7e4d6",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "bulleted-list",
       "children": [
         {
@@ -52,7 +234,7 @@
   "created_at": "2026-06-01T17:18:39.055Z",
   "created_by": "benleff84",
   "title": "The Urban Crisis",
-  "updated_at": "2026-06-02T14:31:46.340Z",
+  "updated_at": "2026-06-02T14:35:02.261Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
