@@ -9,13 +9,17 @@
       ]
     },
     {
-      "type": "event",
       "uuid": "a02a7481-6b0b-48a6-bc34-6b87bdd53832",
       "includes": [
         "media",
         "annotations",
+        "label",
         "description"
       ],
+      "start": 1173,
+      "end": 1452,
+      "file": "b7ef0107-9088-4d70-9569-f283b6864750",
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +39,7 @@
   "created_by": "benleff84",
   "title": "4. Joblessness and Lack of Opportunity for Black Urban Youth",
   "slug": "4-joblessness-and-lack-of-opportunity-for-bl",
-  "updated_at": "2026-06-02T19:05:07.818Z",
+  "updated_at": "2026-06-02T19:14:26.371Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
