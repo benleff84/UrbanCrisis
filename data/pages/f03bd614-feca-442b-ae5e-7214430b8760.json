@@ -9,13 +9,17 @@
       ]
     },
     {
-      "type": "event",
       "uuid": "018c1d43-cdca-441e-8c90-ee7023c3f45a",
       "includes": [
         "media",
         "annotations",
+        "label",
         "description"
       ],
+      "start": 84,
+      "end": 285,
+      "file": "b309e1e5-bdee-4902-b730-5d8580d7e4d6",
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +39,7 @@
   "created_by": "benleff84",
   "title": "9. Stopping the “Vicious Cycle” of Suburban Flight (1976)",
   "slug": "9-stopping-the-vicious-cycle-of-suburban-f",
-  "updated_at": "2026-06-02T19:05:51.541Z",
+  "updated_at": "2026-06-02T19:17:44.467Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
