@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 437,
+      "end_time": 444,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This clip documents fear of crime in Tucson, Arizona. Notably, Tucson is not an example of the “fading industrial center” discussed in much of this set; instead, it was a growing city in the “Sun Belt,” a region in the southern portion of the United States that didn’t suffer the same economic problems as the “Rust Belt” in the Northeast. While the population of many cities stagnated or shrunk in this era, Tucson was exploding: between 1950 and 1980, the city’s population grew from 45,000 to over 330,000, an over 600% increase. This shows that the rise of crime was not simply a mechanical result of economic dislocation associated with deindustrialization; the crime wave of the 1970s and 1980s had myriad causes. It also shows that social problems intensified in urban centers across the country, even in cities that were not facing significant economic hardship.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Historical Background"
+        }
+      ],
+      "uuid": "6dfc30d0-5c54-4592-bb89-4d97c70d1f81"
+    }
+  ],
   "set": "Default",
   "event_id": "f89c3aa3-1ab8-43ea-a3e3-0efd48ba8c65",
   "source_id": "e1d56494-abeb-4d5f-9ba1-1456d6b3734e"
