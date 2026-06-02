@@ -70,6 +70,27 @@
         }
       ],
       "uuid": "74beca73-640b-4bec-8e71-61c5342d537d"
+    },
+    {
+      "start_time": 1441,
+      "end_time": 1459,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sometimes residents set these fires. Naturally, some fires were accidental, but others were deliberate. Earlier in the documentary, Moyers explains that there were long waiting lists for public housing but people whose apartments were burned down received higher priority—thus creating an incentive to burn your own residence if you were already living in poor conditions. Additionally, Moyers’ reporting describes a family who “received a little over $2,000 for new clothing and furniture and were moved to a new apartment at public expense.” According to a police detective he interviewed, this policy encouraged families to burn their own homes to make money. In Moyers’ words, “Arson is now a way of doing business in the South Bronx, encouraged and made profitable by well-intentioned public law.” Additionally, some fires were far less purposeful. According to Moyers, “Kids start a lot of the fires. They burn vacant buildings for the hell of it. A nine-year-old told me, “If you don't take my picture, I'll burn the building down.\" He meant it.”\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Deeper Explanation"
+        }
+      ],
+      "uuid": "e7d8c794-ceaf-4f2a-98ef-52e56da30f6b"
     }
   ],
   "set": "Default",
