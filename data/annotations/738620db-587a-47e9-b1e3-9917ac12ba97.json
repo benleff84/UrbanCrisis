@@ -153,6 +153,27 @@
         }
       ],
       "uuid": "581d48cd-6c17-45a7-93e9-3dcdc72bd661"
+    },
+    {
+      "start_time": 1315,
+      "end_time": 1322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the 1970s, the Federal government provided significant funding to municipal governments to help them deal with the fiscal challenges of the economic stagnation that had hit cities particularly hard. After Ronald Reagan’s victory in the 1980 election, federal policy moved in a different direction. Under what became known as “New Federalism,” Reagan argued that more government programs should be funded and operated at the local and state level, with the federal government playing a smaller role in funding these efforts. The resulting changes in policy led to declines in federal “block grant” programs, in which local governments and organizations used federal money to fund community development and services programs. Critics argued that this change denied necessary federal aid to cities at the time they needed it most; deindustrialization and suburbanization undermined the budgets of urban centers at the same time as struggling urban residents were most in need of government-funded social services.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Deeper Explanation"
+        }
+      ],
+      "uuid": "16662c9a-4767-4dd1-9b8a-1fc677e13f58"
     }
   ],
   "set": "Default",
