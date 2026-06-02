@@ -83,6 +83,27 @@
         }
       ],
       "uuid": "304f2931-1e6a-4090-a58e-5b5ff13722ca"
+    },
+    {
+      "start_time": 690,
+      "end_time": 692,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This quote—“be scared, that’s the way you should be”—apparently delivered by a mother to her child, illustrates the climate of fear that emerged in the 1970s and 1980s as the crime rate climbed in American cities.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Analysis",
+          "tag": "Analysis"
+        }
+      ],
+      "uuid": "00da26ef-cb59-4cb4-adcd-c381ee92e9ff"
     }
   ],
   "set": "Default",
