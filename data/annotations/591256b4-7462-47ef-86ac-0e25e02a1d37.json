@@ -49,6 +49,27 @@
         }
       ],
       "uuid": "a267c9aa-d98c-4d3a-b5a8-40e90cef9b23"
+    },
+    {
+      "start_time": 1372,
+      "end_time": 1378,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sometimes landlords were the culprits in the rash of arsons in the South Bronx in the late 1970s because an insurance settlement paid better than collecting rent. According to Moyers’ narration in a different section, “You can buy a large occupied apartment house in the Bronx for less than a thousand dollars. By taking advantage of the city's three-year tax moratorium, you can collect several thousand a month while paying no taxes; provide heat and services infrequently and only under duress; no maintenance. A few promises will keep the rents coming in until the tenants give up in disgust. Then $200 will buy you a first-class arson job. Federally- subsidized fire insurance is required by law. A quick settlement, with few questions, puts you ahead by $70- or $80,000.”\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Deeper Explanation"
+        }
+      ],
+      "uuid": "74beca73-640b-4bec-8e71-61c5342d537d"
     }
   ],
   "set": "Default",
