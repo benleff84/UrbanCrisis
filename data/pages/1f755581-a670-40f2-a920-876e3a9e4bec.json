@@ -9,13 +9,17 @@
       ]
     },
     {
-      "type": "event",
       "uuid": "1a3bc7a4-c203-47db-9e2c-9324062ec72b",
       "includes": [
         "media",
         "annotations",
+        "label",
         "description"
       ],
+      "start": 591,
+      "end": 721,
+      "file": "4c64c503-e665-4aca-9ac4-204eb3f77ed5",
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +39,7 @@
   "created_by": "benleff84",
   "title": "8. Political Backlash Against Crime in Newark (1979)",
   "slug": "8-political-backlash-against-crime-in-newark",
-  "updated_at": "2026-06-02T19:05:27.213Z",
+  "updated_at": "2026-06-02T19:17:13.983Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
