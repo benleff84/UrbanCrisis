@@ -62,6 +62,27 @@
         }
       ],
       "uuid": "2ca96771-94e6-400a-803a-723dc6b05b9d"
+    },
+    {
+      "start_time": 1555,
+      "end_time": 1576,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The fiscal situation in Cleveland provided the impetus to this particular episode of The MacNeil Lehrer Report. The city had recently defaulted on its loans to local banks (the first major city to do so since the Great Depression), leading to a political crisis. Mayor Dennis Kucinich had publicly announced that he would lay off hundreds of government workers and increase taxes to stabilize the city’s fiscal situation. City councilmen said Cleveland should instead sell a city-owned electrical power plant, while unions threatened to strike if Kucinich followed through on the proposed layoffs. The political crisis was just the latest example of the economic crises that were facing deindustrializing cities across the country.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Historical Background"
+        }
+      ],
+      "uuid": "b929c55f-5ec7-49ce-abb9-168126dd1f0e"
     }
   ],
   "set": "Default",
