@@ -107,6 +107,27 @@
         }
       ],
       "uuid": "1e556498-b7f9-493e-a85b-ea80e1bcd712"
+    },
+    {
+      "start_time": 1137,
+      "end_time": 1159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here, Hawkins explains another key argument used by opponents of regional revenue sharing programs: the principle of “local control.” The comparison to France is instructive. Unlike many European nation-states, in which national governments hold most of the decision-making power (and local governments largely exist to carry out national government mandates) more power is “devolved” to the state and local levels in the USA. States, counties, and cities exercise distinct taxing and lawmaking powers. The principle that “the government closest to the people serves the people best” (often attributed to Thomas Jefferson) aligned well with the views of suburban residents who thought it unfair and unwise to cede tax revenue to nearby cities.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Deeper Explanation"
+        }
+      ],
+      "uuid": "09e58a07-8ba0-457f-96cf-7c4b8929dcee"
     }
   ],
   "set": "Default",
