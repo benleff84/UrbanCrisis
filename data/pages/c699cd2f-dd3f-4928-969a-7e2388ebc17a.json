@@ -9,13 +9,17 @@
       ]
     },
     {
-      "type": "event",
       "uuid": "f3684f15-d346-4efe-a75f-2b4191e95b77",
       "includes": [
         "media",
         "annotations",
+        "label",
         "description"
       ],
+      "start": 1315,
+      "end": 1697,
+      "file": "b309e1e5-bdee-4902-b730-5d8580d7e4d6",
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +39,7 @@
   "created_by": "benleff84",
   "title": "11. Debating Aid to Struggling Cities (1978)",
   "slug": "11-debating-aid-to-struggling-cities-1978",
-  "updated_at": "2026-06-02T19:06:58.020Z",
+  "updated_at": "2026-06-02T19:18:58.353Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
