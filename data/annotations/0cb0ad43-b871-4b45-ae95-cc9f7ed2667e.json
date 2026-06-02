@@ -41,6 +41,27 @@
         }
       ],
       "uuid": "449e635e-6c1c-41c5-b17b-e80d7b2bc11f"
+    },
+    {
+      "start_time": 1289,
+      "end_time": 1305,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here, economist Alan Reynolds, who became a fellow at the libertarian Cato Institute, presents a conservative argument about urban unemployment in this era. According to this interpretation, Black city residents were not unable to find jobs, but made a “voluntary lifestyle” choice not to pursue employment. To the extent structural forces were involved, conservative sociologists like Charles Murray argued that overly generous and poorly designed welfare programs provided a disincentive to work.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Who is talking? "
+        }
+      ],
+      "uuid": "e392c5b2-64b0-4030-9c50-b4437eb9ca09"
     }
   ],
   "set": "Default",
