@@ -70,6 +70,22 @@
         }
       ],
       "uuid": "0af4c29a-7c18-40fd-8d2a-3cfed67bc172"
+    },
+    {
+      "start_time": 580,
+      "end_time": 581,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For more information on Columbia Point, consult Jane Roessner’s 2017 book, A Decent Place to Live: From Columbia Point to Harbor Point: a Community History.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "397f2f4f-8d8e-438e-a236-5ae5e7f2295b"
     }
   ],
   "set": "Default",
