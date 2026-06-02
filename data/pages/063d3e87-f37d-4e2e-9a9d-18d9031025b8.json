@@ -9,13 +9,17 @@
       ]
     },
     {
-      "type": "event",
       "uuid": "1bda2a66-e695-4d6f-87c2-3a227da5167b",
       "includes": [
         "media",
         "annotations",
+        "label",
         "description"
       ],
+      "start": 1298,
+      "end": 1573,
+      "file": "b309e1e5-bdee-4902-b730-5d8580d7e4d6",
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +39,7 @@
   "created_by": "benleff84",
   "title": "5. Urban Decay in the South Bronx",
   "slug": "5-urban-decay-in-the-south-bronx",
-  "updated_at": "2026-06-02T19:05:13.486Z",
+  "updated_at": "2026-06-02T19:15:15.447Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
