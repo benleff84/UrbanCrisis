@@ -49,6 +49,27 @@
         }
       ],
       "uuid": "822616ed-f3d4-4a64-95ba-eddb8d3ddbea"
+    },
+    {
+      "start_time": 1571,
+      "end_time": 1588,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Indeed, LTV Steel did end up buying the parent company of Youngstown Sheet and Tube. LTV filed for bankruptcy in 1986, and finally dissolved in 2001.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Legacy"
+        }
+      ],
+      "uuid": "a31ed224-9a90-48ef-998d-0b49a6849740"
     }
   ],
   "set": "Default",
