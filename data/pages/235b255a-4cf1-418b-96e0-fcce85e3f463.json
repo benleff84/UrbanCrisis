@@ -9,13 +9,17 @@
       ]
     },
     {
-      "type": "event",
       "uuid": "ca7e131b-6db5-47e8-b8b2-e0d85cae4f36",
       "includes": [
         "media",
         "annotations",
+        "label",
         "description"
       ],
+      "start": 814,
+      "end": 1160,
+      "file": "818c88a2-a981-4017-9aa5-1fab6fa27f21",
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +39,7 @@
   "created_by": "benleff84",
   "title": "2. The Struggles of the Auto Industry",
   "slug": "2-the-struggles-of-the-auto-industry",
-  "updated_at": "2026-06-02T19:04:58.738Z",
+  "updated_at": "2026-06-02T19:12:37.120Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
