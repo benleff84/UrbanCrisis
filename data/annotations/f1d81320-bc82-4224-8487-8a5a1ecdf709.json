@@ -78,6 +78,35 @@
         }
       ],
       "uuid": "0f792ce1-0490-4d17-89b7-e99926317733"
+    },
+    {
+      "start_time": 980,
+      "end_time": 1016,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Host Jim Lehrer provides one example of why regional revenue sharing might lead to “perverse incentives”: a bloated, inefficient, city government might become dependent on outside financial aid rather than make the kind of fiscal reforms needed to become self-sufficient. Another “perverse incentive” that someone like Hawkins might identify is that cities would not take the necessary steps to promote new economic development in the central city. If a major city would receive some tax revenue even if a new business was established in the suburbs, there might be less incentive for cities to take the steps to attract new businesses back into the city. In the long run, this could contribute to continued economic stagnation."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Deeper Explanation"
+        }
+      ],
+      "uuid": "1e556498-b7f9-493e-a85b-ea80e1bcd712"
     }
   ],
   "set": "Default",
