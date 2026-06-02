@@ -124,6 +124,35 @@
         }
       ],
       "uuid": "e2a56d44-6c6d-4fd1-acce-d29d243127ad"
+    },
+    {
+      "start_time": 1264,
+      "end_time": 1286,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Across the United States during a time of growing inflation, there was mounting frustration with taxation. The passage of the famous “Prop 13” referendum in California capped property tax rates in that state and placed the steep requirement that any tax increase required a two-thirds majority in both houses of the state legislature. Rather than directly limit property tax levels, the New Jersey legislature passed a law intended to stifle public spending: county, school, and municipal governments were not allowed to increase their budgets by more than 5% in any given year."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Deeper Explanation"
+        }
+      ],
+      "uuid": "581d48cd-6c17-45a7-93e9-3dcdc72bd661"
     }
   ],
   "set": "Default",
