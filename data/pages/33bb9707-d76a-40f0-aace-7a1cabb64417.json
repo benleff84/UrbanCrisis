@@ -9,13 +9,17 @@
       ]
     },
     {
-      "type": "event",
       "uuid": "438b5975-5f81-4b32-90dd-5d40b6a920ad",
       "includes": [
         "media",
         "annotations",
+        "label",
         "description"
       ],
+      "start": 1427,
+      "end": 1588,
+      "file": "cea38e63-4cfc-49d4-b3e4-f2f941f6ca77",
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +39,7 @@
   "created_by": "benleff84",
   "title": "3. The Domino Effect of Plant Closures in the Rust Belt",
   "slug": "3-the-domino-effect-of-plant-closures-in-the",
-  "updated_at": "2026-06-02T19:05:03.323Z",
+  "updated_at": "2026-06-02T19:13:33.190Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
