@@ -103,6 +103,27 @@
         }
       ],
       "uuid": "01016830-ff31-4f24-ac06-84e070c2924f"
+    },
+    {
+      "start_time": 1237,
+      "end_time": 1251,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Like many states in the mid-1970s, New Jersey was in dire fiscal straits and the state’s public schools were underfunded. At the same time, New Jersey residents were frustrated by rising property taxes, the major mechanism for funding schools at the time. In this environment, advocates who had spent years fighting for a statewide progressive income tax finally won the day. They argued that the tax could help the state provide more funding to schools and thus relieve pressure to further raise property taxes. They also argued that a state income tax was more equitable. It was structured as a “progressive” tax, so higher-income residents paid higher rates than low-income residents. And unlike property taxes collected at a more local level—in which wealthier localities could collect far more per capita revenue than struggling cities—a state tax could distribute money to help constrain the pattern in which suburban school districts were much better funded than poor urban districts. After much political wrangling, the New Jersey legislature established the new income tax in 1976.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Historical Background"
+        }
+      ],
+      "uuid": "e2a56d44-6c6d-4fd1-acce-d29d243127ad"
     }
   ],
   "set": "Default",
