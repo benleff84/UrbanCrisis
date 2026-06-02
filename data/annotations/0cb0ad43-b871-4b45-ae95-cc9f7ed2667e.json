@@ -62,6 +62,35 @@
         }
       ],
       "uuid": "e392c5b2-64b0-4030-9c50-b4437eb9ca09"
+    },
+    {
+      "start_time": 1387,
+      "end_time": 1393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In late 1983, facing significant budgetary problems, the city of Newark laid off almost 100 firefighters and closed six fire stations. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Historical Background"
+        }
+      ],
+      "uuid": "5fb92f4d-fcbd-4b59-a338-2473b45f24f0"
     }
   ],
   "set": "Default",
