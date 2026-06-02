@@ -12,10 +12,10 @@
   "created_at": "2026-06-01T17:18:39.055Z",
   "created_by": "benleff84",
   "title": "The Urban Crisis",
-  "updated_at": "2026-06-02T13:56:39.098Z",
+  "updated_at": "2026-06-02T13:57:17.490Z",
   "updated_by": "benleff84",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
