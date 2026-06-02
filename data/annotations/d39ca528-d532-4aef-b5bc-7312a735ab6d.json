@@ -28,6 +28,27 @@
         }
       ],
       "uuid": "72acf9a6-73da-4883-8e62-0a66c1f534cd"
+    },
+    {
+      "start_time": 1565,
+      "end_time": 1570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nThe economy continued to struggle in Campbell, as efforts to revive the local mill failed and deindustrialization in the region continued. According to Census and Bureau of Labor Statistics data, the population of Mahoning County fell by around 13% between 1970 and 1990. Over the same time period, the poverty rate increased from 9.2% to 15.9%.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Legacy"
+        }
+      ],
+      "uuid": "822616ed-f3d4-4a64-95ba-eddb8d3ddbea"
     }
   ],
   "set": "Default",
