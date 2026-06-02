@@ -41,6 +41,27 @@
         }
       ],
       "uuid": "f66e3d40-f1ee-4afe-987e-16cf5cdb23e1"
+    },
+    {
+      "start_time": 1344,
+      "end_time": 1428,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Most cities collect revenue through sales taxes (collecting a percentage of the value of purchases made at local stores) and property taxes (collecting a tax proportionate to the assessed value of a home or other piece of property). During the urban crisis of the 1970s, these streams proved insufficient. Sales tax revenue was declining as residents had less money to spend, and property tax revenue plummeted as more affluent property owners moved to the suburbs. Additionally, as Mayor Gibson notes, a particularly high proportion of Newark property was untaxable because it was owned by federal or state government (e.g. the port authority). Most states in the US, including New Jersey at this time, do not allow local governments to collect income tax, shutting off another potential revenue stream. Eventually, Newark was allowed to start collecting a 1% income tax from local employers.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Deeper Explanation"
+        }
+      ],
+      "uuid": "2ca96771-94e6-400a-803a-723dc6b05b9d"
     }
   ],
   "set": "Default",
