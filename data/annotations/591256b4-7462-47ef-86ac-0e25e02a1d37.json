@@ -1,5 +1,35 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1246,
+      "end_time": 1256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fires were ubiquitous in the South Bronx in this era. According to Mrill Ingram of Progressive Magazine, “Buildings burned almost continuously from an estimated forty fires a day in the South Bronx that destroyed 80 percent of area housing stock and displaced a quarter-million residents in the late 1960s and 1970s.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Historical Background"
+        }
+      ],
+      "uuid": "7757f9e4-d2fa-4b3c-852f-7aa25590bacf"
+    }
+  ],
   "set": "Default",
   "event_id": "1bda2a66-e695-4d6f-87c2-3a227da5167b",
   "source_id": "b79a0c08-5ed5-4101-a548-1a16d99c091f"
