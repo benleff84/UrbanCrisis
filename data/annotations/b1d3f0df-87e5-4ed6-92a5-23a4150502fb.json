@@ -41,6 +41,27 @@
         }
       ],
       "uuid": "90a1cbd1-7988-450e-b096-559b797be420"
+    },
+    {
+      "start_time": 213,
+      "end_time": 229,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This section addresses the challenge of political feasibility that will be explored more fully in other clips in this set. But, suffice it to say, New Jersey residents outside of cities were reluctant to support programs that would direct tax revenue collected from rural and suburban areas and redirect it towards struggling cities.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Analysis",
+          "tag": "Analysis"
+        }
+      ],
+      "uuid": "f912a294-6b9c-4dc1-9117-33406f9e67cb"
     }
   ],
   "set": "Default",
