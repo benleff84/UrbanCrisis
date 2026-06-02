@@ -65,8 +65,8 @@
       "children": [
         {
           "color": "#001be6",
-          "textSize": "heading-two",
-          "text": "Introduction & Context"
+          "text": "Introduction & Context",
+          "textSize": "heading-one"
         }
       ]
     },
@@ -143,7 +143,7 @@
         {
           "text": "Video Sources",
           "color": "#1b0bf9",
-          "textSize": "heading-two"
+          "textSize": "heading-one"
         }
       ]
     },
@@ -323,7 +323,7 @@
         {
           "color": "#001be6",
           "text": "Teaching Tips",
-          "textSize": "heading-two"
+          "textSize": "heading-one"
         }
       ]
     },
@@ -356,7 +356,7 @@
       "children": [
         {
           "text": "Background Information",
-          "color": "#e60004",
+          "color": "#fa0000",
           "textSize": "heading-three"
         }
       ]
@@ -445,7 +445,7 @@
       "children": [
         {
           "text": "General Discussion Questions",
-          "color": "#e60000",
+          "color": "#fa0000",
           "textSize": "heading-three"
         }
       ]
@@ -509,7 +509,7 @@
       "children": [
         {
           "text": "Classroom Activities",
-          "highlight": "#e60000",
+          "highlight": "#ffffff",
           "color": "#e60000",
           "textSize": "heading-three"
         }
@@ -826,12 +826,17 @@
           ]
         },
         {
-          "text": " summary of then-President Jimmy Carter’s proposal of a broad federal policy to address problems in American cities. Ask: Which of these proposals do you think would be effective in addressing those problems? Which would not be effective? What criticism might this proposal have faced?\n\n"
-        },
+          "text": " summary of then-President Jimmy Carter’s proposal of a broad federal policy to address problems in American cities. Ask: Which of these proposals do you think would be effective in addressing those problems? Which would not be effective? What criticism might this proposal have faced?\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "Activity 3: Political Response to Urban Decay",
           "bold": true,
-          "textSize": "heading-three"
+          "textSize": "heading-three",
+          "text": "Activity 3: Political Response to Urban Decay"
         }
       ]
     },
@@ -1038,7 +1043,7 @@
         {
           "text": "Additional Resources",
           "color": "#000fe6",
-          "textSize": "heading-two"
+          "textSize": "heading-one"
         }
       ]
     },
@@ -1114,7 +1119,7 @@
         {
           "text": "References",
           "color": "#000fe6",
-          "textSize": "heading-two"
+          "textSize": "heading-one"
         }
       ]
     },
@@ -1152,7 +1157,7 @@
   "created_at": "2026-06-01T17:18:39.055Z",
   "created_by": "benleff84",
   "title": "The Urban Crisis",
-  "updated_at": "2026-06-02T19:37:40.026Z",
+  "updated_at": "2026-06-02T22:11:45.243Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
