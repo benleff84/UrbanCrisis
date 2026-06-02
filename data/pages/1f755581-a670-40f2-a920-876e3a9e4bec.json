@@ -4,6 +4,85 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Newark, New Jersey, provided an archetype of urban decay in this era. According to a 1976 report by the New Jersey Economic Council, the state lost 110,000 manufacturing jobs—almost one-quarter of its manufacturing workforce—between 1953 and 1975. Many of those workers were from the former industrial center of Newark. By 1980, "
+        },
+        {
+          "type": "link",
+          "url": "https://s3.amazonaws.com/americanarchive.org/resources/newark.pdf",
+          "children": [
+            {
+              "text": "unemployment in the fading industrial center rose above 13% and the poverty rate rose above 30"
+            }
+          ]
+        },
+        {
+          "text": ". As joblessness rose in Newark, so did crime. In 1980, "
+        },
+        {
+          "type": "link",
+          "url": "https://www.disastercenter.com/newjersy/crime/8541.htm?",
+          "children": [
+            {
+              "text": "Newark police recorded over 11,000 violent crimes"
+            }
+          ]
+        },
+        {
+          "text": ", resulting in a per capita rate that was "
+        },
+        {
+          "type": "link",
+          "url": "https://www.everycrsreport.com/files/20180620_R45236_2331bb4395e5bc18cafc200727ecad1748db8880.html?",
+          "children": [
+            {
+              "text": "more than five times the national average estimated by the FBI"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This 1979 "
+        },
+        {
+          "text": "New Jersey Nightly News",
+          "italic": true
+        },
+        {
+          "text": " report is evidence of how some politicians used the crime issue to mobilize supporters—often along racial lines. The "
+        },
+        {
+          "type": "link",
+          "url": "https://s3.amazonaws.com/americanarchive.org/resources/population.pdf",
+          "children": [
+            {
+              "text": "city’s racial composition had changed as dramatically"
+            }
+          ]
+        },
+        {
+          "text": " as its economic base: in 1950, Newark was 83% white and 17% Black; by 1980, just 31% of residents were white and 58% were Black. In this clip, two white politicians in Newark—Anthony Imperiale and Anthony Carrino—both claim to speak for the “decent people” of Newark who are tired of being victimized by a criminal class. Notably, their criticisms are largely aimed at the administration of Kenneth Gibson, Newark’s first Black mayor, arguing that the local government needs to do more to stop crime."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -30,7 +109,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "New Jersey Nightly News | New Jersey Network | August 16, 1979 "
+        },
+        {
+          "text": "This video clip appears from 9:51 - 12:01 in the full record.",
+          "italic": true
+        },
+        {
+          "text": "\n\n"
         }
       ]
     }
@@ -39,7 +125,7 @@
   "created_by": "benleff84",
   "title": "8. Political Backlash Against Crime in Newark (1979)",
   "slug": "8-political-backlash-against-crime-in-newark",
-  "updated_at": "2026-06-02T19:17:13.983Z",
+  "updated_at": "2026-06-02T19:33:18.566Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
