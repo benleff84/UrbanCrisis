@@ -9,13 +9,25 @@
       ]
     },
     {
-      "type": "event",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "9978e398-1991-4e56-9261-a8eb42b2fa7e",
       "includes": [
         "media",
         "annotations",
+        "label",
         "description"
       ],
+      "start": 259,
+      "end": 581,
+      "file": "f3aead74-fbd4-40ad-be45-f5216d323a91",
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +47,7 @@
   "created_by": "benleff84",
   "title": "6. Crisis in Urban Housing Projects (1978)",
   "slug": "6-crisis-in-urban-housing-projects-1978",
-  "updated_at": "2026-06-02T19:05:18.268Z",
+  "updated_at": "2026-06-02T19:15:48.482Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
