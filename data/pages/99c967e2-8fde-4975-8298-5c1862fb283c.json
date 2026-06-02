@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "b8b5c23b-a2a2-4e1b-9d99-06eb12af71c0",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-06-02T13:46:08.026Z",
   "created_by": "benleff84",
   "title": "12. The Political Challenge of Reviving New Jersey’s Cities (1982)",
   "slug": "12-the-political-challenge-of-reviving-new-j",
-  "updated_at": "2026-06-02T13:46:08.026Z",
+  "updated_at": "2026-06-02T19:07:03.834Z",
   "updated_by": "benleff84",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "b8b5c23b-a2a2-4e1b-9d99-06eb12af71c0"
   }
