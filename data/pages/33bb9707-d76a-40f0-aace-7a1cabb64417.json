@@ -4,6 +4,29 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This 1978 report from the "
+        },
+        {
+          "text": "MacNeil/Lehrer Report",
+          "italic": true
+        },
+        {
+          "text": " demonstrates how deindustrialization did not only affect large cities like Detroit and New York. Campbell, Ohio—a small city adjacent to Youngstown—was one of hundreds of small- and medium-sized cities that had also been also built around industry. Most of these cities were concentrated around the Great Lakes, and by the late twentieth century, they formed the economically depressed region that came to be known as the Rust Belt. The lifeblood of Campbell was the Youngstown Iron Sheet and Tube factory (the city was named after a former chairman of the company), which abruptly closed in 1977, upending the community. As the report shows, closures of a particular factory could trigger a destructive domino effect; stores that relied on consumer spending from local workers struggled, while municipalities lost tax revenue that had been paid by companies and their employees."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -39,7 +62,7 @@
   "created_by": "benleff84",
   "title": "3. The Domino Effect of Plant Closures in the Rust Belt",
   "slug": "3-the-domino-effect-of-plant-closures-in-the",
-  "updated_at": "2026-06-02T19:13:33.190Z",
+  "updated_at": "2026-06-02T19:27:57.024Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
