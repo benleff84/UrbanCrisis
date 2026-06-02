@@ -32,6 +32,27 @@
         }
       ],
       "uuid": "cd908e06-88d8-4cd6-945a-8b4bd816beb6"
+    },
+    {
+      "start_time": 1058,
+      "end_time": 1082,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In 1976, New Jersey voters approved a referendum that legalized casino gambling in Atlantic City, making New Jersey the only state outside of Nevada with casinos. Atlantic City had a long history dating back to the early 20th century as a gathering place for revelers thanks its boardwalk, restaurants, hotels, and nightclubs—and saw its fair share of illegal drinking and gambling during the Prohibition era of the 1920s and 1930s. Proponents of legalization in the 1970s thought casino gambling could create tax revenue for the state and contribute to Atlantic City’s economic revitalization.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Historical Background"
+        }
+      ],
+      "uuid": "e703e8f2-3d94-487e-af71-a443ee47c8a1"
     }
   ],
   "set": "Default",
