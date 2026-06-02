@@ -20,6 +20,27 @@
         }
       ],
       "uuid": "96524b06-866e-449c-9482-cdbc43f6b2bf"
+    },
+    {
+      "start_time": 1255,
+      "end_time": 1272,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " In 1965, after the Voting Rights Act returned the franchise to African Americans, Julian Bond was elected to the US House of Representatives—the first Black congressmen from Georgia since Reconstruction. He continued to serve in the House for six terms, and in the 1990s, became the Chair of the NAACP.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Who is talking? "
+        }
+      ],
+      "uuid": "449e635e-6c1c-41c5-b17b-e80d7b2bc11f"
     }
   ],
   "set": "Default",
