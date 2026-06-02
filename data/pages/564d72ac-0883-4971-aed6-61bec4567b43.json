@@ -9,13 +9,17 @@
       ]
     },
     {
-      "type": "event",
       "uuid": "c15d7ac8-bcc6-418b-aa2e-a8cccc1dec2b",
       "includes": [
         "media",
         "annotations",
+        "label",
         "description"
       ],
+      "start": 570,
+      "end": 720,
+      "file": "a9e02bb1-7073-450b-a994-32845c502ab5",
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +39,7 @@
   "created_by": "benleff84",
   "title": "1. The Middle Class Exodus",
   "slug": "1-the-middle-class-exodus",
-  "updated_at": "2026-06-02T18:19:28.513Z",
+  "updated_at": "2026-06-02T18:20:31.899Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
