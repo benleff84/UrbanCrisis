@@ -4,7 +4,59 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "AAPB Primary Source Discussion Set: The Urban Crisis ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "uuid": "c15d7ac8-bcc6-418b-aa2e-a8cccc1dec2b",
+          "includes": [
+            "media",
+            "annotations",
+            "label",
+            "description"
+          ],
+          "type": "event",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "uuid": "ca7e131b-6db5-47e8-b8b2-e0d85cae4f36",
+          "includes": [
+            "media",
+            "annotations",
+            "label",
+            "description"
+          ],
+          "type": "event",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
         }
       ]
     }
@@ -12,7 +64,7 @@
   "created_at": "2026-06-01T17:18:39.055Z",
   "created_by": "benleff84",
   "title": "The Urban Crisis",
-  "updated_at": "2026-06-02T13:57:17.490Z",
+  "updated_at": "2026-06-02T13:58:16.632Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
