@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "52e8d15b-00dc-4e60-94ce-5f1bb5f4ad5f": {
+      "label": "AV File 1",
+      "file_url": "https://americanarchive.org/media/cpb-aacip-507-kp7tm72r5n/download",
+      "duration": 1888,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-06-02T13:41:47.975Z",
+  "created_by": "benleff84",
+  "label": "The MacNeil/Lehrer Report; Tough Times",
+  "updated_at": "2026-06-02T13:41:47.975Z",
+  "updated_by": "benleff84",
+  "rights_statement": ""
+}
