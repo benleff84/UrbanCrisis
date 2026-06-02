@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1172,
+      "end_time": 1209,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While Americans of all races struggled with unemployment in the early 1980s, the problem was particularly stark for Black Americans. According to Federal Reserve data, white unemployment was 9.1% in January 1983 (the year of this telecast), while Black unemployment rose to 21.2%.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Historical Background"
+        }
+      ],
+      "uuid": "96524b06-866e-449c-9482-cdbc43f6b2bf"
+    }
+  ],
   "set": "Default",
   "event_id": "a02a7481-6b0b-48a6-bc34-6b87bdd53832",
   "source_id": "b7ef0107-9088-4d70-9569-f283b6864750"
