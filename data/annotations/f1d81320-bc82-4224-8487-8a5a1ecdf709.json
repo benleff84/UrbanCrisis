@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 910,
+      "end_time": 924,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Woodrow Wilson International Center for Scholars was established by the US Congress and, according to its website, “provides nonpartisan counsel and insights on global affairs to policymakers through deep research, impartial analysis, and independent scholarship.” After his time at the Wilson Center, Robert Hawkins, Jr. was ultimately appointed by Republican President Ronald Reagan Chairman of the Advisory Commission on Intergovernmental Relations, where he served under both Reagan and George H.W. Bush administrations.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Who is talking? "
+        }
+      ],
+      "uuid": "c653682a-d4ce-4c8b-a61f-033eac891311"
+    }
+  ],
   "set": "Default",
   "event_id": "835d2225-5c84-4779-8d51-3210d9fde3dd",
   "source_id": "df378131-44a7-4918-9620-efafd6f2ef2b"
