@@ -78,6 +78,31 @@
         }
       ],
       "uuid": "2b0fb0c5-ae6f-4f16-b86c-a82f9a4ad516"
+    },
+    {
+      "start_time": 1196,
+      "end_time": 1222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The city of Camden joined Newark as one of the prime examples of urban blight in New Jersey. In the early 20th century, Camden was a major industrial center with a major shipbuilding industry and thousands of manufacturing jobs at firms like the Campbell’s Soup Company and the electronics company, RCA. Like so many Northeastern cities, deindustrialization and the flight of white middle-class residents hit Camden hard in the 1960s and 1970s. Between 1950 and 1980, the city’s population fell by more than 30% from around 125,000 to 85,000, and the number of manufacturing faced a similarly steep downward trajectory. The construction of a major prison in Camden provides a sad irony; desperate for money, Camden took on a state project that was arguably made necessary by the rise in crime in decaying cities like Camden.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Historical Background"
+        },
+        {
+          "category": "Context",
+          "tag": "Deeper Explanation"
+        }
+      ],
+      "uuid": "01016830-ff31-4f24-ac06-84e070c2924f"
     }
   ],
   "set": "Default",
