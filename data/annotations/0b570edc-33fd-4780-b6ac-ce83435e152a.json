@@ -20,6 +20,35 @@
         }
       ],
       "uuid": "e6ef44f1-95d9-4872-aad9-48d0e9c5cdfb"
+    },
+    {
+      "start_time": 366,
+      "end_time": 375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Columbia Point projects continued their deterioration after this 1978 report. In 1986, the complex was destroyed, succumbing to the same fate as Pruitt-Igoe in St. Louis and Cabrini Green in Chicago, other massive public housing complexes that were destroyed after they had become dens of crime, drug use and intense poverty. Redevelopment on Columbia Point included new market-rate, lower-rise housing developments, luxury apartments, and the John F. Kennedy Presidential Library."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Legacy"
+        }
+      ],
+      "uuid": "15c38f11-c434-45a3-8906-4dd2132c4287"
     }
   ],
   "set": "Default",
