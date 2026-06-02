@@ -1,5 +1,35 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1453,
+      "end_time": 1473,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steel industry layoffs devastated the tax base in small Mahoning Valley cities like Campbell. According to a 1983 Wall Street Journal piece, the nearby small city of Struthers closed its parks and swimming pool, and laid off ten full-time municipal employees. According to John Kovach, the city finance director, “we derive the majority of our income from the city income tax. And 50 percent of our workers aren’t getting income.”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Historical Background"
+        }
+      ],
+      "uuid": "72acf9a6-73da-4883-8e62-0a66c1f534cd"
+    }
+  ],
   "set": "Default",
   "event_id": "438b5975-5f81-4b32-90dd-5d40b6a920ad",
   "source_id": "cea38e63-4cfc-49d4-b3e4-f2f941f6ca77"
