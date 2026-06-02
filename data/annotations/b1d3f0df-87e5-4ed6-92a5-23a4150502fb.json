@@ -20,6 +20,27 @@
         }
       ],
       "uuid": "ba7c5f8b-3820-4dfd-bd9f-05d0cec56a93"
+    },
+    {
+      "start_time": 195,
+      "end_time": 205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The concept of “homesteading businesses” mentioned in this section is based on the premise that for cities to revive, more businesses needed to return to the city to provide job opportunities for urban residents. If cities provided free land and tax incentives to these businesses, perhaps entrepreneurs would be more likely to pursue economic opportunities in cities rather than suburbs.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Deeper Explanation"
+        }
+      ],
+      "uuid": "90a1cbd1-7988-450e-b096-559b797be420"
     }
   ],
   "set": "Default",
