@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "f3aead74-fbd4-40ad-be45-f5216d323a91": {
+      "label": "AV File 1",
+      "file_url": "https://americanarchive.org/media/cpb-aacip-507-bv79s1m89j/download",
+      "duration": 1875,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-06-02T13:18:44.832Z",
+  "created_by": "benleff84",
+  "label": "The MacNeil/Lehrer Report; \n     \"What To Do With The Failures In Public Housing: Fix Them Up, Or Tear\n    'Em Down?\" \n  ",
+  "updated_at": "2026-06-02T13:18:44.832Z",
+  "updated_by": "benleff84",
+  "rights_statement": ""
+}
