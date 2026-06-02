@@ -184,7 +184,15 @@
       ]
     },
     {
-      "uuid": "018c1d43-cdca-441e-8c90-ee7023c3f45a",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "f89c3aa3-1ab8-43ea-a3e3-0efd48ba8c65",
       "includes": [
         "media",
         "annotations",
@@ -193,6 +201,58 @@
       ],
       "start": 437,
       "end": 696,
+      "file": "e1d56494-abeb-4d5f-9ba1-1456d6b3734e",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "1a3bc7a4-c203-47db-9e2c-9324062ec72b",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 591,
+      "end": 721,
+      "file": "4c64c503-e665-4aca-9ac4-204eb3f77ed5",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "018c1d43-cdca-441e-8c90-ee7023c3f45a",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 84,
+      "end": 237,
       "file": "b309e1e5-bdee-4902-b730-5d8580d7e4d6",
       "type": "event",
       "children": [
@@ -234,7 +294,7 @@
   "created_at": "2026-06-01T17:18:39.055Z",
   "created_by": "benleff84",
   "title": "The Urban Crisis",
-  "updated_at": "2026-06-02T14:35:02.261Z",
+  "updated_at": "2026-06-02T14:50:21.182Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,

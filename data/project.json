@@ -1,1 +1,89 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":true},"users":[{"login_name":"benleff84","avatar_url":"https://avatars.githubusercontent.com/u/173163727?v=4","admin":true}],"project":{"github_org":"benleff84","is_private":false,"title":"The Urban Crisis","description":"Annotations for AAPB Primary Source Discussion Set ","language":"en","slug":"UrbanCrisis","creator":"benleff84","authors":"Ben Leff","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"color":"#99E6FF","category":"Context"},{"color":"#F2A7C3","category":"Analysis"}],"tags":[{"category":"Analysis","tag":"Analysis"},{"category":"Context","tag":"Deeper Explanation"},{"category":"Context","tag":"Historical Background"},{"category":"Context","tag":"Legacy"},{"category":"Context","tag":"Learn More"},{"category":"Context","tag":"Who is on screen?"}]},"created_at":"2026-06-01T17:18:39.013Z","updated_at":"2026-06-02T14:35:03.737Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"cffae91b-4254-4ff4-9595-49e23aaf4485":{"content":[],"created_at":"2026-06-01T17:18:39.055Z","created_by":"benleff84","title":"The Urban Crisis","updated_at":"2026-06-01T17:18:39.055Z","updated_by":"benleff84","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["cffae91b-4254-4ff4-9595-49e23aaf4485"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": true
+  },
+  "users": [
+    {
+      "login_name": "benleff84",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173163727?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "benleff84",
+    "is_private": false,
+    "title": "The Urban Crisis",
+    "description": "Annotations for AAPB Primary Source Discussion Set ",
+    "language": "en",
+    "slug": "UrbanCrisis",
+    "creator": "benleff84",
+    "authors": "Ben Leff",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "color": "#99E6FF",
+          "category": "Context"
+        },
+        {
+          "color": "#F2A7C3",
+          "category": "Analysis"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Analysis",
+          "tag": "Analysis"
+        },
+        {
+          "category": "Context",
+          "tag": "Deeper Explanation"
+        },
+        {
+          "category": "Context",
+          "tag": "Historical Background"
+        },
+        {
+          "category": "Context",
+          "tag": "Legacy"
+        },
+        {
+          "category": "Context",
+          "tag": "Learn More"
+        },
+        {
+          "category": "Context",
+          "tag": "Who is on screen?"
+        }
+      ]
+    },
+    "created_at": "2026-06-01T17:18:39.013Z",
+    "updated_at": "2026-06-02T14:50:22.832Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "cffae91b-4254-4ff4-9595-49e23aaf4485": {
+      "content": [],
+      "created_at": "2026-06-01T17:18:39.055Z",
+      "created_by": "benleff84",
+      "title": "The Urban Crisis",
+      "updated_at": "2026-06-01T17:18:39.055Z",
+      "updated_by": "benleff84",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "cffae91b-4254-4ff4-9595-49e23aaf4485"
+  ]
+}
