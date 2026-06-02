@@ -49,6 +49,27 @@
         }
       ],
       "uuid": "15c38f11-c434-45a3-8906-4dd2132c4287"
+    },
+    {
+      "start_time": 390,
+      "end_time": 403,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The same assertion about the practices of the Boston Housing Authority was leveled in the Boston Globe during the 1960s. Writer Richard Hurt identified “a disproportionate assignment of problem families to (Columbia Point’s) apartments. The Boston Housing Authority officially denies a policy of shunting the more unfortunate families into certain projects, but a person in a responsible position in the authority confirmed that such a practice does, in fact, exist.”\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Deeper Explanation"
+        }
+      ],
+      "uuid": "0af4c29a-7c18-40fd-8d2a-3cfed67bc172"
     }
   ],
   "set": "Default",
