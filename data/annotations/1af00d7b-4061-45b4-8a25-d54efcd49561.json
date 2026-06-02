@@ -20,6 +20,27 @@
         }
       ],
       "uuid": "c9f7f263-0a17-4dce-aabf-94ca4c915474"
+    },
+    {
+      "start_time": 1325,
+      "end_time": 1340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Host Robert MacNeil’s reference to urban governments as “junkies” who suffered from “dependency” on outside aid channels a perspective held by Americans who were critical of “bailouts” to struggling cities. According to this point of view, to the extent certain cities were in economic crisis, they only had themselves to blame: municipal government spending was out of control; party machines controlled local governments and were corruption was rampant; public sector unions held politicians hostage and made it politically difficult to make necessary cuts to government workers. Thus, federal aid was futile or even counterproductive, since it enabled city governments to continue their bad habits rather than making necessary reforms.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Deeper Explanation"
+        }
+      ],
+      "uuid": "f66e3d40-f1ee-4afe-987e-16cf5cdb23e1"
     }
   ],
   "set": "Default",
