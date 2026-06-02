@@ -41,6 +41,31 @@
         }
       ],
       "uuid": "383f56b3-8975-4e15-b59c-8f18711624dc"
+    },
+    {
+      "start_time": 692,
+      "end_time": 700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This section references the mayor of Newark, Kenneth Gibson, who became the first Black mayor of Newark (indeed, he was the first Black mayor of any significant Northeastern city). He first won office in 1970, defeated Anthony Imperiale to win re-election in 1974, and ultimately held that office until 1986. During the 1970s and 1980s, dozens of cities across the country elected their first Black mayors, including Tom Bradley in Los Angeles, Harold Washington in Chicago, and David Dinkins in New York. These democratic trends owe significantly to the changing racial composition of American cities, and Black voters became larger proportions of urban electorates. However, these Black leaders gained political power at a particularly challenging historical moment, having to deal with the unenviable political task of dealing with the social problems associated with the urban crisis, including rising crime.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Who is talking? "
+        },
+        {
+          "category": "Context",
+          "tag": "Deeper Explanation"
+        }
+      ],
+      "uuid": "fd0ad836-6689-4ce5-906e-dee9a6956ab3"
     }
   ],
   "set": "Default",
