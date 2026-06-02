@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "f89c3aa3-1ab8-43ea-a3e3-0efd48ba8c65",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-06-02T13:25:19.862Z",
   "created_by": "benleff84",
   "title": "7. Fear of Crime in American Cities (1979)",
   "slug": "7-fear-of-crime-in-american-cities-1979",
-  "updated_at": "2026-06-02T13:25:19.862Z",
+  "updated_at": "2026-06-02T19:05:22.932Z",
   "updated_by": "benleff84",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "f89c3aa3-1ab8-43ea-a3e3-0efd48ba8c65"
   }
