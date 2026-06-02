@@ -62,6 +62,27 @@
         }
       ],
       "uuid": "2d7997d9-02ff-433c-acd3-06ce96d35215"
+    },
+    {
+      "start_time": 608,
+      "end_time": 647,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is somewhat difficult to gauge the effect of rising crime on gun ownership and gun attitudes because data in the early 1960s (before the rise in crime) is sparse. But one interesting data point can be found in a Gallup polling question that has been asked periodically since 1959: “Do you think there should be a law that would ban the possession of handguns, except by police and other authorized persons?” In 1959, 60% of Americans surveyed registered support for such a ban. Just over 30% Americans polled in 1980 supported a ban. One possible interpretation of this shift is that a growing number of Americans, like the people interviewed in this section of the clip, wanted to a own a gun for self-defense.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Deeper Explanation"
+        }
+      ],
+      "uuid": "304f2931-1e6a-4090-a58e-5b5ff13722ca"
     }
   ],
   "set": "Default",
