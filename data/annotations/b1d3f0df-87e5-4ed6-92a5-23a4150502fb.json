@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 147,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suburban zoning policy—in New Jersey and elsewhere—frequently operated to discourage lower-income families from moving in. All cities typically “zone” different “blocks” within the community for certain kinds of activity; some blocks are for industrial activity, some for commerce, some for housing, etc. Importantly, the regions zoned for “residential purposes” often had particular rules about the kind of housing that could be built in that area. There could be rules about minimum lot size, the minimum square footage of a dwelling on a particular lot, rules that housing on a given lot must be for single-family homes rather than multi-family apartment buildings, etc. Through these mechanisms, suburban communities could effectively ensure that only middle- and upper-class families could move in. (For example, if zoning made apartment buildings effectively illegal, lower-income families would not likely be able to afford to live in that community). Thus, this reference to “zoning reform” refers to a state policy that would require suburban communities to adopt zoning changes that would allow for more low-income families to move into that community, which could help prevent poor people from being “trapped” in decaying cities.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Deeper Explanation"
+        }
+      ],
+      "uuid": "ba7c5f8b-3820-4dfd-bd9f-05d0cec56a93"
+    }
+  ],
   "set": "Default",
   "event_id": "018c1d43-cdca-441e-8c90-ee7023c3f45a",
   "source_id": "b309e1e5-bdee-4902-b730-5d8580d7e4d6"
