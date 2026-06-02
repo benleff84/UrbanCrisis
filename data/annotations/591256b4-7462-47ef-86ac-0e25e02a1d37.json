@@ -28,6 +28,27 @@
         }
       ],
       "uuid": "7757f9e4-d2fa-4b3c-852f-7aa25590bacf"
+    },
+    {
+      "start_time": 1314,
+      "end_time": 1324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The interviewee is a “squatter” who stayed in an empty apartment without paying rent. “Squatting” was common in the South Bronx in the late 1970s. With so many abandoned, burned-out apartments, there were many places for poor people to live if they were willing to live without heat, water, and electricity. According to a 2015 Time Magazine article, the police were far more concerned with more serious crime, and generally made little effort to evict people from abandoned buildings.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Deeper Explanation"
+        }
+      ],
+      "uuid": "a267c9aa-d98c-4d3a-b5a8-40e90cef9b23"
     }
   ],
   "set": "Default",
