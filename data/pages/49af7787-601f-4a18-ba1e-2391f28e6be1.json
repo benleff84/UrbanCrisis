@@ -4,11 +4,12 @@
   "created_by": "benleff84",
   "title": "Joblessness and Lack of Opportunity for Black Urban Youth",
   "slug": "joblessness-and-lack-of-opportunity-for-black",
-  "updated_at": "2026-06-02T02:19:43.873Z",
+  "updated_at": "2026-06-02T02:22:57.512Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "a02a7481-6b0b-48a6-bc34-6b87bdd53832"
-  }
+  },
+  "parent": "cffae91b-4254-4ff4-9595-49e23aaf4485"
 }
