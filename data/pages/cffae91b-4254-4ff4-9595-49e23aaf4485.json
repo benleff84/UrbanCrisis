@@ -142,8 +142,8 @@
         },
         {
           "text": "Video Sources",
-          "textSize": "heading-two",
-          "color": "#1b0bf9"
+          "color": "#1b0bf9",
+          "textSize": "heading-two"
         }
       ]
     },
@@ -322,18 +322,14 @@
       "children": [
         {
           "color": "#001be6",
-          "textSize": "heading-two",
-          "text": "Teaching Tips"
-        },
-        {
-          "type": "link",
-          "url": "https://s3.amazonaws.com/americanarchive.org/primary_source_sets/AAPB_Urban_Crisis_Teaching-Tips.pdf",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
+          "text": "Teaching Tips",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
         {
           "text": "Collectively, the sources capture multiple layers of the urban crisis. The first three clips illuminate some of the structural causes of urban decay. The next three clips portray some of the symptoms by depicting bleak conditions in Newark, New York, and Boston. Several more clips speak to the rise in crime and the resulting anger and fear that fueled the War on Crime. The remaining clips lay out the contours of a political debate of the era: Should tax revenue collected by federal, state, and nearby local governments be redirected to cities to address the problems of urban decay?"
         }
@@ -360,8 +356,8 @@
       "children": [
         {
           "text": "Background Information",
-          "textSize": "heading-three",
-          "color": "#e60004"
+          "color": "#e60004",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -415,8 +411,8 @@
       "children": [
         {
           "text": "Essential Question",
-          "textSize": "heading-three",
-          "color": "#e60000"
+          "color": "#e60000",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -449,8 +445,8 @@
       "children": [
         {
           "text": "General Discussion Questions",
-          "textSize": "heading-three",
-          "color": "#e60000"
+          "color": "#e60000",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -513,21 +509,27 @@
       "children": [
         {
           "text": "Classroom Activities",
-          "textSize": "heading-three",
           "highlight": "#e60000",
-          "color": "#e60000"
+          "color": "#e60000",
+          "textSize": "heading-three"
         }
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading-four",
       "children": [
         {
-          "text": "\n"
-        },
-        {
-          "text": "Activity 1: The Causes of Urban Decay",
+          "text": "",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "heading-four",
+      "children": [
+        {
+          "bold": true,
+          "text": "Activity 1: The Causes of Urban Decay"
         },
         {
           "text": "\n"
@@ -819,7 +821,8 @@
         },
         {
           "text": "Activity 3: Political Response to Urban Decay",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-three"
         }
       ]
     },
@@ -1131,7 +1134,7 @@
   "created_at": "2026-06-01T17:18:39.055Z",
   "created_by": "benleff84",
   "title": "The Urban Crisis",
-  "updated_at": "2026-06-02T19:03:45.326Z",
+  "updated_at": "2026-06-02T19:10:37.152Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
