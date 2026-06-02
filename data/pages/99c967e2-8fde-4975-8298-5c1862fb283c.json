@@ -12,6 +12,21 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "The state of New Jersey provides a useful case study in the challenges of reviving cities during this era. New Jersey was the most urbanized state in the country, but many of those cities were sprawling suburban communities; the more classic urban industrial centers like Camden and Newark faced hard times in the 1970s. As governor from 1974 to 1982, Brendan Byrne sought to conquer the “inner frontier of our cities. If our cities are not made as healthy and attractive as the rest of New Jersey, I fear that all our other achievements are threatened.” Under his administration, New Jersey pursued revenue sharing programs, economic development initiatives, and provided tax incentives to businesses in an effort to revive urban centers. But as this "
+        },
+        {
+          "text": "New Jersey Nightly News",
+          "italic": true
+        },
+        {
+          "text": " retrospective report of Byrne’s time in office reveals, these reform efforts often fell short of their goals."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -38,7 +53,27 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "New Jersey Nightly News | New Jersey Network | January 12, 1982 "
+        },
+        {
+          "text": "This video clip appears from 16:54 - 22:54 in the full record.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
         }
       ]
     }
@@ -47,7 +82,7 @@
   "created_by": "benleff84",
   "title": "12. The Political Challenge of Reviving New Jersey’s Cities (1982)",
   "slug": "12-the-political-challenge-of-reviving-new-j",
-  "updated_at": "2026-06-02T19:19:39.572Z",
+  "updated_at": "2026-06-02T19:35:50.184Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
