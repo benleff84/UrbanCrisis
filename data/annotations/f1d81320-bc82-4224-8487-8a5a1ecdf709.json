@@ -49,6 +49,35 @@
         }
       ],
       "uuid": "c56c5b9a-1988-4afc-b176-7a2a7c437102"
+    },
+    {
+      "start_time": 936,
+      "end_time": 965,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In exploring the question of whether suburbs “exploit” central cities, Hawkins puts his finger on a core feature of the era’s urban crisis “debate.” Many urban reformers considered suburbs to be exploitative: suburban residents used the services of the central city (e.g. highways) but much of their tax revenue stayed in the suburbs (e.g. property taxes on their homes). However, people like Hawkins might argue that such analysis overplayed the harms of the suburbs. He might argue that there are many services suburban residents did not use (e.g. school systems, fire departments), and taxes they still paid (sales tax collected when suburbanites ate and shopped in the city)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Analysis",
+          "tag": "Analysis"
+        }
+      ],
+      "uuid": "0f792ce1-0490-4d17-89b7-e99926317733"
     }
   ],
   "set": "Default",
