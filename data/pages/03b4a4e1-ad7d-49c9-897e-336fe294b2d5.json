@@ -4,6 +4,21 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "\nA 1977 episode of "
+        },
+        {
+          "text": "The MacNeil/Lehrer Report",
+          "italic": true
+        },
+        {
+          "text": " entitled “Property Tax Solution” explored a particular reform designed to alleviate the fiscal problems of the cities. In 1971, the Minnesota State Legislature attempted to address the fiscal dynamic that many Americans blamed for urban blight: the affluent classes had moved to the suburbs, decimating the tax base of central cities. The solution involved tax-base sharing. Taxes raised from certain economic activities anywhere in the larger Minneapolis-St. Paul metro area—including the suburbs—would be pooled together and redistributed. Thus, a fraction of the revenue raised in more prosperous areas (often in the suburbs) would be funneled towards poorer areas (typically in the central cities). Not surprisingly, residents and politicians in suburban areas often resisted such programs. This particular excerpt illustrates the kinds of arguments made by critics of these regional revenue sharing plans. The speaker is Robert Hawkins, state and local government studies coordinator at a Washington, D.C., think tank, and he contends that the Minnesota plan violates important principles of local self-government and unfairly and inaccurately casts suburbs as exploiters of cities."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -30,7 +45,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "The MacNeil/Lehrer Report; Property Tax Solution | NewsHour Productions | October 31, 1977 "
+        },
+        {
+          "text": "This video clip appears from 15:03 - 19:19 in the full record.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
         }
       ]
     }
@@ -39,7 +74,7 @@
   "created_by": "benleff84",
   "title": "10. The “Local Control” Argument Against Aid to Cities (1977)",
   "slug": "10-the-local-control-argument-against-aid",
-  "updated_at": "2026-06-02T19:18:22.770Z",
+  "updated_at": "2026-06-02T19:34:36.587Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
