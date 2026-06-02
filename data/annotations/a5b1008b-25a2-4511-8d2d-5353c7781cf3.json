@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 636,
+      "end_time": 651,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anthony Imperiale is the man pictured leading this political rally, arguing that he spoke for the “decent people” who lived in fear of the “criminal element” of Newark. His critics argued that he trafficked in “race-baiting…demagoguery.” He rose as a public figure in the wake of the 1967 Newark Riots, when he led a “squad” of residents in the Italian American North ward in what he considered a justified campaign of armed self-defense against Black rioters. He is said to have pronounced that “when the Black Panther comes, the white hunter will be waiting.'’ In the aftermath, he was elected as a Newark councilman, and later as a State Assemblyman and Senator. Many would argue that these 1979 protests were both a reflection of popular fear and frustration about rising crime, and part of a broader pattern in which politicians like Imperiale mobilized white voters by playing up racialized grievances about crime to attack the Black political leadership of Newark.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Who is talking? "
+        }
+      ],
+      "uuid": "ebb14850-c611-4a41-8d9d-1fbff553b710"
+    }
+  ],
   "set": "Default",
   "event_id": "1a3bc7a4-c203-47db-9e2c-9324062ec72b",
   "source_id": "4c64c503-e665-4aca-9ac4-204eb3f77ed5"
