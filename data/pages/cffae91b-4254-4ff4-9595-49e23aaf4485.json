@@ -44,6 +44,23 @@
       ]
     },
     {
+      "type": "image",
+      "url": "https://s3.amazonaws.com/americanarchive.org/primary_source_sets/south-bronx-16x9.jpeg",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "heading-three",
       "children": [
         {
@@ -124,7 +141,7 @@
           "text": "\n"
         },
         {
-          "text": "Sources",
+          "text": "Video Sources",
           "textSize": "heading-two",
           "color": "#1b0bf9"
         }
@@ -144,7 +161,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "1. Middle Class Exodus to the Suburbs"
+                  "text": "1. "
+                },
+                {
+                  "text": "Middle Class Exodus to the Suburbs (1966)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/1-the-middle-class-exodus/"
                 }
               ]
             },
@@ -152,7 +173,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "2. The Struggles of the Auto Industry"
+                  "text": "2. "
+                },
+                {
+                  "text": "The Struggles of the Auto Industry (1980)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/2-the-struggles-of-the-auto-industry/"
                 }
               ]
             },
@@ -160,7 +185,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "3. The Domino Effect of Plant Closures in the Rust Belt"
+                  "text": "3. "
+                },
+                {
+                  "text": "The Domino Effect of Plant Closures in the Rust Belt (1978)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/3-the-domino-effect-of-plant-closures-in-the/"
                 }
               ]
             },
@@ -168,7 +197,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "4. Joblessness and Lack of Opportunity for Black Urban Youth"
+                  "text": "4. "
+                },
+                {
+                  "text": "Joblessness and Lack of Opportunity for Black Urban Youth (1983)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/4-joblessness-and-lack-of-opportunity-for-bl/"
                 }
               ]
             },
@@ -177,6 +210,10 @@
               "children": [
                 {
                   "text": "5. "
+                },
+                {
+                  "text": "Urban Decay in the South Bronx (1980)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/5-urban-decay-in-the-south-bronx/"
                 }
               ]
             },
@@ -184,7 +221,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "6."
+                  "text": "6. "
+                },
+                {
+                  "text": "Crisis in Urban Housing Projects (1978)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/6-crisis-in-urban-housing-projects-1978/"
                 }
               ]
             }
@@ -197,7 +238,8 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "7."
+                  "text": "7. Fear of Crime in American Cities (1979)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/7-fear-of-crime-in-american-cities-1979/"
                 }
               ]
             },
@@ -205,7 +247,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "8."
+                  "text": "8. "
+                },
+                {
+                  "text": "Political Backlash Against Crime in Newark (1979)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/8-political-backlash-against-crime-in-newark/"
                 }
               ]
             },
@@ -213,7 +259,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "9."
+                  "text": "9. "
+                },
+                {
+                  "text": "Stopping the \"Vicious Cycle\" of Suburban Flight (1978)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/9-stopping-the-vicious-cycle-of-suburban-f/"
                 }
               ]
             },
@@ -221,7 +271,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "10."
+                  "text": "10. "
+                },
+                {
+                  "text": "The \"Local Control\" Argument Against Aid to Cities (1977)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/10-the-local-control-argument-against-aid/"
                 }
               ]
             },
@@ -229,7 +283,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "11."
+                  "text": "11. "
+                },
+                {
+                  "text": "Debating Aid to Struggling Cities (1978)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/11-debating-aid-to-struggling-cities-1978/"
                 }
               ]
             },
@@ -237,116 +295,15 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "12."
+                  "text": "12. "
+                },
+                {
+                  "text": "The Political Challenge of Reviving New Jersey's Cities (1982)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/12-the-political-challenge-of-reviving-new-j/"
                 }
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "grid",
-      "layout": [
-        6
-      ],
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "grid",
-      "layout": [
-        3,
-        3
-      ],
-      "children": [
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "\n\nThe Struggles of the Auto Industry (1980)\n\n"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "heading-three",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://s3.amazonaws.com/americanarchive.org/primary_source_sets/urban-crisis-2.png",
-      "caption": "The Struggles of the Auto Industry",
-      "children": [
-        {
-          "text": ""
-        }
-      ],
-      "scale": 30
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "heading-three",
-      "children": [
-        {
-          "text": "\n"
         }
       ]
     },
@@ -592,19 +549,22 @@
           "type": "list-item",
           "children": [
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/pages/1-the-middle-class-exodus/"
             },
             {
               "type": "link",
               "url": "https://americanarchive.org/primary_source_sets/urban-crisis/01-516-hx15m6375q",
               "children": [
                 {
-                  "text": "Middle Class Exodus to the Suburbs (1966)"
+                  "text": "Middle Class Exodus to the Suburbs (1966)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/1-the-middle-class-exodus/"
                 }
               ]
             },
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/pages/1-the-middle-class-exodus/"
             }
           ]
         },
@@ -612,19 +572,22 @@
           "type": "list-item",
           "children": [
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/events/2-the-struggles-of-the-auto-industry/"
             },
             {
               "type": "link",
               "url": "https://americanarchive.org/primary_source_sets/urban-crisis/02-e702335a440",
               "children": [
                 {
-                  "text": "The Struggles of the Auto Industry (1980)"
+                  "text": "The Struggles of the Auto Industry (1980)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/2-the-struggles-of-the-auto-industry/"
                 }
               ]
             },
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/events/2-the-struggles-of-the-auto-industry/"
             }
           ]
         },
@@ -632,19 +595,22 @@
           "type": "list-item",
           "children": [
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/events/3-the-domino-effect-of-plant-closures-in-the/"
             },
             {
               "type": "link",
               "url": "https://americanarchive.org/primary_source_sets/urban-crisis/03-507-gt5fb4xb92",
               "children": [
                 {
-                  "text": "The Domino Effect of Plant Closures in the Rust Belt (1978)"
+                  "text": "The Domino Effect of Plant Closures in the Rust Belt (1978)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/3-the-domino-effect-of-plant-closures-in-the/"
                 }
               ]
             },
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/events/3-the-domino-effect-of-plant-closures-in-the/"
             }
           ]
         }
@@ -689,12 +655,14 @@
               "url": "https://americanarchive.org/primary_source_sets/urban-crisis/04-526-ns0ks6k995",
               "children": [
                 {
-                  "text": "Joblessness and Lack of Opportunity for Black Urban Youth (1983)"
+                  "text": "Joblessness and Lack of Opportunity for Black Urban Youth (1983)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/4-joblessness-and-lack-of-opportunity-for-bl/"
                 }
               ]
             },
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/events/4-joblessness-and-lack-of-opportunity-for-bl/"
             }
           ]
         },
@@ -702,19 +670,22 @@
           "type": "list-item",
           "children": [
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/events/5-urban-decay-in-the-south-bronx/"
             },
             {
               "type": "link",
               "url": "https://americanarchive.org/primary_source_sets/urban-crisis/05-526-ns0ks6k995",
               "children": [
                 {
-                  "text": "Urban Decay in the South Bronx (1980)"
+                  "text": "Urban Decay in the South Bronx (1980)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/5-urban-decay-in-the-south-bronx/"
                 }
               ]
             },
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/events/5-urban-decay-in-the-south-bronx/"
             }
           ]
         },
@@ -722,19 +693,22 @@
           "type": "list-item",
           "children": [
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/events/6-crisis-in-urban-housing-projects-1978/"
             },
             {
               "type": "link",
               "url": "https://americanarchive.org/primary_source_sets/urban-crisis/06-526-ns0ks6k995",
               "children": [
                 {
-                  "text": "Crisis in Urban Housing Projects (1978)"
+                  "text": "Crisis in Urban Housing Projects (1978)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/6-crisis-in-urban-housing-projects-1978/"
                 }
               ]
             },
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/events/6-crisis-in-urban-housing-projects-1978/"
             }
           ]
         },
@@ -749,12 +723,14 @@
               "url": "https://americanarchive.org/primary_source_sets/urban-crisis/07-507-jq0sq8r907",
               "children": [
                 {
-                  "text": "Fear of Crime in American Cities (1979)"
+                  "text": "Fear of Crime in American Cities (1979)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/7-fear-of-crime-in-american-cities-1979/"
                 }
               ]
             },
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/events/7-fear-of-crime-in-american-cities-1979/"
             }
           ]
         },
@@ -769,12 +745,14 @@
               "url": "https://americanarchive.org/primary_source_sets/urban-crisis/08-259-sq8qgg2r",
               "children": [
                 {
-                  "text": "Political Backlash Against Crime in Newark (1979)"
+                  "text": "Political Backlash Against Crime in Newark (1979)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/8-political-backlash-against-crime-in-newark/"
                 }
               ]
             },
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/events/8-political-backlash-against-crime-in-newark/"
             }
           ]
         }
@@ -837,23 +815,7 @@
           ]
         },
         {
-          "text": " summary of then-President Jimmy Carter’s proposal of a broad federal policy to address problems in American cities. Ask: Which of these proposals do you think would be effective in addressing those problems? Which would not be effective? What criticism might this proposal have faced?"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\nActivity 1: The Causes of Urban Decay\n\n"
+          "text": " summary of then-President Jimmy Carter’s proposal of a broad federal policy to address problems in American cities. Ask: Which of these proposals do you think would be effective in addressing those problems? Which would not be effective? What criticism might this proposal have faced?\n\n"
         },
         {
           "text": "Activity 3: Political Response to Urban Decay",
@@ -891,12 +853,14 @@
               "url": "https://americanarchive.org/primary_source_sets/urban-crisis/09-259-gh9b8312",
               "children": [
                 {
-                  "text": "Stopping the “Vicious Cycle” of Suburban Flight (1978)"
+                  "text": "Stopping the “Vicious Cycle” of Suburban Flight (1978)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/9-stopping-the-vicious-cycle-of-suburban-f/"
                 }
               ]
             },
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/events/9-stopping-the-vicious-cycle-of-suburban-f/"
             }
           ]
         },
@@ -911,12 +875,14 @@
               "url": "https://americanarchive.org/primary_source_sets/urban-crisis/10-507-x639z91909",
               "children": [
                 {
-                  "text": "The “Local Control” Argument Against Aid to Cities (1977)"
+                  "text": "The “Local Control” Argument Against Aid to Cities (1977)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/10-the-local-control-argument-against-aid/"
                 }
               ]
             },
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/events/10-the-local-control-argument-against-aid/"
             }
           ]
         },
@@ -924,19 +890,22 @@
           "type": "list-item",
           "children": [
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/events/11-debating-aid-to-struggling-cities-1978/"
             },
             {
               "type": "link",
               "url": "https://americanarchive.org/primary_source_sets/urban-crisis/11-507-x639z91909",
               "children": [
                 {
-                  "text": "Debating Aid to Struggling Cities (1978)"
+                  "text": "Debating Aid to Struggling Cities (1978)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/11-debating-aid-to-struggling-cities-1978/"
                 }
               ]
             },
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/events/11-debating-aid-to-struggling-cities-1978/"
             }
           ]
         },
@@ -944,19 +913,22 @@
           "type": "list-item",
           "children": [
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/events/12-the-political-challenge-of-reviving-new-j/"
             },
             {
               "type": "link",
               "url": "https://americanarchive.org/primary_source_sets/urban-crisis/12-507-x639z91909",
               "children": [
                 {
-                  "text": "The Political Challenge of Reviving New Jersey’s Cities (1982)"
+                  "text": "The Political Challenge of Reviving New Jersey’s Cities (1982)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/events/12-the-political-challenge-of-reviving-new-j/"
                 }
               ]
             },
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/events/12-the-political-challenge-of-reviving-new-j/"
             }
           ]
         }
@@ -1035,7 +1007,123 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+          "text": "\n\n\n"
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "Additional Resources",
+          "color": "#000fe6",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": "",
+          "link": "https://thinktv.pbslearningmedia.org/resource/city-in-spiral-nyc-1960s-1970s-video/new-york-documentary-film/"
+        },
+        {
+          "type": "link",
+          "url": "https://illinois.pbslearningmedia.org/resource/city-in-spiral-nyc-1960s-1970s-video/new-york-documentary-film/",
+          "children": [
+            {
+              "text": "A City in Spiral: New York City in the 1960s and 1970s",
+              "bold": true,
+              "link": "https://thinktv.pbslearningmedia.org/resource/city-in-spiral-nyc-1960s-1970s-video/new-york-documentary-film/"
+            }
+          ]
+        },
+        {
+          "text": ", PBS LearningMedia"
+        }
+      ]
+    },
+    {
+      "type": "list-item",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://www.pbs.org/wgbh/americanexperience/features/blackout-gallery/",
+          "children": [
+            {
+              "text": "Blackout: NYC in Chaos",
+              "bold": true,
+              "link": "https://www.pbs.org/wgbh/americanexperience/features/blackout-gallery/"
+            }
+          ]
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "American Experience",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "References",
+          "color": "#000fe6",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Cover image: Vergara, Camilo J., photographer. South Bronx, 1973. Photograph (cropped). "
+        },
+        {
+          "type": "link",
+          "url": "https://lccn.loc.gov/2020702547",
+          "children": [
+            {
+              "text": "https://lccn.loc.gov/2020702547",
+              "link": "https://lccn.loc.gov/2020702547"
+            }
+          ]
+        },
+        {
+          "text": ".",
+          "link": "https://lccn.loc.gov/2020702547"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
         }
       ]
     }
@@ -1043,7 +1131,7 @@
   "created_at": "2026-06-01T17:18:39.055Z",
   "created_by": "benleff84",
   "title": "The Urban Crisis",
-  "updated_at": "2026-06-02T18:43:13.479Z",
+  "updated_at": "2026-06-02T19:03:38.892Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
