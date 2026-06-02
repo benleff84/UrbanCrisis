@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 347,
+      "end_time": 366,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The changing racial composition of Columbia Point is corroborated by data from other sources. According to US Census data, 91% of residents in Columbia Point were white in 1960; by 1970, that figure fell to 39%\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e6ef44f1-95d9-4872-aad9-48d0e9c5cdfb"
+    }
+  ],
   "set": "Default",
   "event_id": "9978e398-1991-4e56-9261-a8eb42b2fa7e",
   "source_id": "f3aead74-fbd4-40ad-be45-f5216d323a91"
