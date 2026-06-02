@@ -84,7 +84,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Learn More"
+        }
+      ],
       "uuid": "397f2f4f-8d8e-438e-a236-5ae5e7f2295b"
     }
   ],
