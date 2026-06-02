@@ -20,6 +20,27 @@
         }
       ],
       "uuid": "6dfc30d0-5c54-4592-bb89-4d97c70d1f81"
+    },
+    {
+      "start_time": 444,
+      "end_time": 507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The enhanced home security efforts depicted in this segment provide just one example of how communities sought to protect themselves from rising crime. For example, in 1972, the National Sheriffs Association founded the National Neighborhood Watch program, and communities across the country formed local organizations devoted to staying vigilant about the threat of crime and coordinating with local law enforcement\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Deeper Explanation"
+        }
+      ],
+      "uuid": "7693d21f-aa15-40bd-b5bf-70c91f554994"
     }
   ],
   "set": "Default",
