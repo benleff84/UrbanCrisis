@@ -91,6 +91,39 @@
         }
       ],
       "uuid": "5fb92f4d-fcbd-4b59-a338-2473b45f24f0"
+    },
+    {
+      "start_time": 1445,
+      "end_time": 1451,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n"
+            },
+            {
+              "type": "link",
+              "url": "https://dataspace.princeton.edu/handle/88435/dsp010c483j37t",
+              "children": [
+                {
+                  "text": "According to census analysis by George Cave"
+                }
+              ]
+            },
+            {
+              "text": ", 23% of Americans aged 16-19 who were in the labor force (i.e., not in school) were unemployed in 1982. For black male youth, that figure was 48.9%.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Historical Background"
+        }
+      ],
+      "uuid": "933f8f65-687c-4afd-935e-1acbc95b058a"
     }
   ],
   "set": "Default",
