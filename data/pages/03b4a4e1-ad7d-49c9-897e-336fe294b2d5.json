@@ -9,13 +9,17 @@
       ]
     },
     {
-      "type": "event",
       "uuid": "835d2225-5c84-4779-8d51-3210d9fde3dd",
       "includes": [
         "media",
         "annotations",
+        "label",
         "description"
       ],
+      "start": 903,
+      "end": 1159,
+      "file": "df378131-44a7-4918-9620-efafd6f2ef2b",
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -35,7 +39,7 @@
   "created_by": "benleff84",
   "title": "10. The “Local Control” Argument Against Aid to Cities (1977)",
   "slug": "10-the-local-control-argument-against-aid",
-  "updated_at": "2026-06-02T19:05:56.026Z",
+  "updated_at": "2026-06-02T19:18:22.770Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
