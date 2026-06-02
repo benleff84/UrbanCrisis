@@ -20,6 +20,27 @@
         }
       ],
       "uuid": "ebb14850-c611-4a41-8d9d-1fbff553b710"
+    },
+    {
+      "start_time": 673,
+      "end_time": 689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anthony Carrino, the protest organizer who also claimed to speak for “decent people” who were fed up with crime, was a former police officer who became a major political figure in Newark, serving seven terms on the city council between between 1974 and 2002. He was a fierce critic of Newark’s first Black mayor, Kenneth Gibson. In one famous 1976 incident, Carrino stormed Gibson’s office with Imperiale and a group of followers to protest a recent police hire, actually breaking down the door with his shoulder.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Who is talking? "
+        }
+      ],
+      "uuid": "383f56b3-8975-4e15-b59c-8f18711624dc"
     }
   ],
   "set": "Default",
