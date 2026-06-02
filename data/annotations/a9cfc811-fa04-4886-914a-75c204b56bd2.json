@@ -41,6 +41,27 @@
         }
       ],
       "uuid": "7693d21f-aa15-40bd-b5bf-70c91f554994"
+    },
+    {
+      "start_time": 582,
+      "end_time": 608,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This minister describes how individual churchgoing were withdrawing from social service efforts based around generosity, as the rise in crime had created an “us” versus “them” mentality that distanced parishioners from poor people in the city. This trend parallels a broader national trend identified by historians like Julilly Kohler-Hausman, who argues in her book Getting Tough: Welfare and Imprisonment in 1970s America, that the rise of a “tough on crime” politics coincided with the rise of welfare retrenchment policies. At a local, state, and national level, she argues that there was a shift away from social service programs and towards more intensive policing and incarceration.\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Deeper Explanation"
+        }
+      ],
+      "uuid": "2d7997d9-02ff-433c-acd3-06ce96d35215"
     }
   ],
   "set": "Default",
