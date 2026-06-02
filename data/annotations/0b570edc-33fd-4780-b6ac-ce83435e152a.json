@@ -13,7 +13,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Context",
+          "tag": "Historical Background"
+        }
+      ],
       "uuid": "e6ef44f1-95d9-4872-aad9-48d0e9c5cdfb"
     },
     {
