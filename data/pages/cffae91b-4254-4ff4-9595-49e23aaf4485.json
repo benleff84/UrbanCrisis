@@ -177,7 +177,7 @@
                 },
                 {
                   "text": "The Struggles of the Auto Industry (1980)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/events/2-the-struggles-of-the-auto-industry/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/2-the-struggles-of-the-auto-industry/"
                 }
               ]
             },
@@ -189,7 +189,7 @@
                 },
                 {
                   "text": "The Domino Effect of Plant Closures in the Rust Belt (1978)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/events/3-the-domino-effect-of-plant-closures-in-the/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/3-the-domino-effect-of-plant-closures-in-the/"
                 }
               ]
             },
@@ -201,7 +201,7 @@
                 },
                 {
                   "text": "Joblessness and Lack of Opportunity for Black Urban Youth (1983)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/events/4-joblessness-and-lack-of-opportunity-for-bl/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/4-joblessness-and-lack-of-opportunity-for-bl/"
                 }
               ]
             },
@@ -213,7 +213,7 @@
                 },
                 {
                   "text": "Urban Decay in the South Bronx (1980)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/events/5-urban-decay-in-the-south-bronx/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/5-urban-decay-in-the-south-bronx/"
                 }
               ]
             },
@@ -225,7 +225,7 @@
                 },
                 {
                   "text": "Crisis in Urban Housing Projects (1978)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/events/6-crisis-in-urban-housing-projects-1978/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/6-crisis-in-urban-housing-projects-1978/"
                 }
               ]
             }
@@ -238,8 +238,12 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "7. Fear of Crime in American Cities (1979)",
+                  "text": "7. ",
                   "link": "https://benleff84.github.io/UrbanCrisis/events/7-fear-of-crime-in-american-cities-1979/"
+                },
+                {
+                  "text": "Fear of Crime in American Cities (1979)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/7-fear-of-crime-in-american-cities-1979/"
                 }
               ]
             },
@@ -251,7 +255,7 @@
                 },
                 {
                   "text": "Political Backlash Against Crime in Newark (1979)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/events/8-political-backlash-against-crime-in-newark/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/8-political-backlash-against-crime-in-newark/"
                 }
               ]
             },
@@ -263,7 +267,7 @@
                 },
                 {
                   "text": "Stopping the \"Vicious Cycle\" of Suburban Flight (1978)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/events/9-stopping-the-vicious-cycle-of-suburban-f/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/9-stopping-the-vicious-cycle-of-suburban-f/"
                 }
               ]
             },
@@ -275,7 +279,7 @@
                 },
                 {
                   "text": "The \"Local Control\" Argument Against Aid to Cities (1977)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/events/10-the-local-control-argument-against-aid/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/10-the-local-control-argument-against-aid/"
                 }
               ]
             },
@@ -287,7 +291,7 @@
                 },
                 {
                   "text": "Debating Aid to Struggling Cities (1978)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/events/11-debating-aid-to-struggling-cities-1978/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/11-debating-aid-to-struggling-cities-1978/"
                 }
               ]
             },
@@ -295,11 +299,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "12. "
-                },
-                {
-                  "text": "The Political Challenge of Reviving New Jersey's Cities (1982)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/events/12-the-political-challenge-of-reviving-new-j/"
+                  "text": "12. The Political Challenge of Reviving New Jersey's Cities (1982)"
                 }
               ]
             }
@@ -575,7 +575,7 @@
           "children": [
             {
               "text": "",
-              "link": "https://benleff84.github.io/UrbanCrisis/events/2-the-struggles-of-the-auto-industry/"
+              "link": "https://benleff84.github.io/UrbanCrisis/pages/2-the-struggles-of-the-auto-industry/"
             },
             {
               "type": "link",
@@ -583,13 +583,13 @@
               "children": [
                 {
                   "text": "The Struggles of the Auto Industry (1980)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/events/2-the-struggles-of-the-auto-industry/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/2-the-struggles-of-the-auto-industry/"
                 }
               ]
             },
             {
               "text": "",
-              "link": "https://benleff84.github.io/UrbanCrisis/events/2-the-struggles-of-the-auto-industry/"
+              "link": "https://benleff84.github.io/UrbanCrisis/pages/2-the-struggles-of-the-auto-industry/"
             }
           ]
         },
@@ -606,13 +606,13 @@
               "children": [
                 {
                   "text": "The Domino Effect of Plant Closures in the Rust Belt (1978)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/events/3-the-domino-effect-of-plant-closures-in-the/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/3-the-domino-effect-of-plant-closures-in-the/"
                 }
               ]
             },
             {
               "text": "",
-              "link": "https://benleff84.github.io/UrbanCrisis/events/3-the-domino-effect-of-plant-closures-in-the/"
+              "link": "https://benleff84.github.io/UrbanCrisis/pages/3-the-domino-effect-of-plant-closures-in-the/"
             }
           ]
         }
@@ -659,7 +659,8 @@
           "type": "list-item",
           "children": [
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/pages/4-joblessness-and-lack-of-opportunity-for-bl/"
             },
             {
               "type": "link",
@@ -667,13 +668,13 @@
               "children": [
                 {
                   "text": "Joblessness and Lack of Opportunity for Black Urban Youth (1983)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/events/4-joblessness-and-lack-of-opportunity-for-bl/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/4-joblessness-and-lack-of-opportunity-for-bl/"
                 }
               ]
             },
             {
               "text": "",
-              "link": "https://benleff84.github.io/UrbanCrisis/events/4-joblessness-and-lack-of-opportunity-for-bl/"
+              "link": "https://benleff84.github.io/UrbanCrisis/pages/4-joblessness-and-lack-of-opportunity-for-bl/"
             }
           ]
         },
@@ -690,13 +691,13 @@
               "children": [
                 {
                   "text": "Urban Decay in the South Bronx (1980)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/events/5-urban-decay-in-the-south-bronx/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/5-urban-decay-in-the-south-bronx/"
                 }
               ]
             },
             {
               "text": "",
-              "link": "https://benleff84.github.io/UrbanCrisis/events/5-urban-decay-in-the-south-bronx/"
+              "link": "https://benleff84.github.io/UrbanCrisis/pages/5-urban-decay-in-the-south-bronx/"
             }
           ]
         },
@@ -713,13 +714,13 @@
               "children": [
                 {
                   "text": "Crisis in Urban Housing Projects (1978)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/events/6-crisis-in-urban-housing-projects-1978/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/6-crisis-in-urban-housing-projects-1978/"
                 }
               ]
             },
             {
               "text": "",
-              "link": "https://benleff84.github.io/UrbanCrisis/events/6-crisis-in-urban-housing-projects-1978/"
+              "link": "https://benleff84.github.io/UrbanCrisis/pages/6-crisis-in-urban-housing-projects-1978/"
             }
           ]
         },
@@ -735,7 +736,7 @@
               "children": [
                 {
                   "text": "Fear of Crime in American Cities (1979)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/events/7-fear-of-crime-in-american-cities-1979/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/7-fear-of-crime-in-american-cities-1979/"
                 }
               ]
             },
@@ -757,13 +758,13 @@
               "children": [
                 {
                   "text": "Political Backlash Against Crime in Newark (1979)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/events/8-political-backlash-against-crime-in-newark/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/8-political-backlash-against-crime-in-newark/"
                 }
               ]
             },
             {
               "text": "",
-              "link": "https://benleff84.github.io/UrbanCrisis/events/8-political-backlash-against-crime-in-newark/"
+              "link": "https://benleff84.github.io/UrbanCrisis/pages/8-political-backlash-against-crime-in-newark/"
             }
           ]
         }
@@ -871,13 +872,13 @@
               "children": [
                 {
                   "text": "Stopping the “Vicious Cycle” of Suburban Flight (1978)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/events/9-stopping-the-vicious-cycle-of-suburban-f/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/9-stopping-the-vicious-cycle-of-suburban-f/"
                 }
               ]
             },
             {
               "text": "",
-              "link": "https://benleff84.github.io/UrbanCrisis/events/9-stopping-the-vicious-cycle-of-suburban-f/"
+              "link": "https://benleff84.github.io/UrbanCrisis/pages/9-stopping-the-vicious-cycle-of-suburban-f/"
             }
           ]
         },
@@ -885,7 +886,8 @@
           "type": "list-item",
           "children": [
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/pages/10-the-local-control-argument-against-aid/"
             },
             {
               "type": "link",
@@ -893,13 +895,13 @@
               "children": [
                 {
                   "text": "The “Local Control” Argument Against Aid to Cities (1977)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/events/10-the-local-control-argument-against-aid/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/10-the-local-control-argument-against-aid/"
                 }
               ]
             },
             {
               "text": "",
-              "link": "https://benleff84.github.io/UrbanCrisis/events/10-the-local-control-argument-against-aid/"
+              "link": "https://benleff84.github.io/UrbanCrisis/pages/10-the-local-control-argument-against-aid/"
             }
           ]
         },
@@ -916,7 +918,7 @@
               "children": [
                 {
                   "text": "Debating Aid to Struggling Cities (1978)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/events/11-debating-aid-to-struggling-cities-1978/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/11-debating-aid-to-struggling-cities-1978/"
                 }
               ]
             },
@@ -939,13 +941,13 @@
               "children": [
                 {
                   "text": "The Political Challenge of Reviving New Jersey’s Cities (1982)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/events/12-the-political-challenge-of-reviving-new-j/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/12-the-political-challenge-of-reviving-new-j/"
                 }
               ]
             },
             {
               "text": "",
-              "link": "https://benleff84.github.io/UrbanCrisis/events/12-the-political-challenge-of-reviving-new-j/"
+              "link": "https://benleff84.github.io/UrbanCrisis/pages/12-the-political-challenge-of-reviving-new-j/"
             }
           ]
         }
@@ -1157,7 +1159,7 @@
   "created_at": "2026-06-01T17:18:39.055Z",
   "created_by": "benleff84",
   "title": "The Urban Crisis",
-  "updated_at": "2026-06-02T22:19:26.092Z",
+  "updated_at": "2026-06-03T00:12:02.135Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
