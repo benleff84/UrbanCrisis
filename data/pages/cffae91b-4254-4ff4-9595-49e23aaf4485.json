@@ -189,7 +189,7 @@
                 },
                 {
                   "text": "The Domino Effect of Plant Closures in the Rust Belt (1978)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/pages/3-the-domino-effect-of-plant-closures-in-the/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/the-domino-effect-of-plant-closures-in-the-ru/"
                 }
               ]
             },
@@ -267,7 +267,7 @@
                 },
                 {
                   "text": "Stopping the \"Vicious Cycle\" of Suburban Flight (1978)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/pages/9-stopping-the-vicious-cycle-of-suburban-f/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/9-stopping-the-vicious-cycle-of-suburban--2/"
                 }
               ]
             },
@@ -299,7 +299,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "12. The Political Challenge of Reviving New Jersey's Cities (1982)"
+                  "text": "12. "
+                },
+                {
+                  "text": "The Political Challenge of Reviving New Jersey's Cities (1982)",
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/12-the-political-challenge-of-reviving-new-j/"
                 }
               ]
             }
@@ -598,7 +602,7 @@
           "children": [
             {
               "text": "",
-              "link": "https://benleff84.github.io/UrbanCrisis/events/3-the-domino-effect-of-plant-closures-in-the/"
+              "link": "https://benleff84.github.io/UrbanCrisis/pages/the-domino-effect-of-plant-closures-in-the-ru/"
             },
             {
               "type": "link",
@@ -606,13 +610,13 @@
               "children": [
                 {
                   "text": "The Domino Effect of Plant Closures in the Rust Belt (1978)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/pages/3-the-domino-effect-of-plant-closures-in-the/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/the-domino-effect-of-plant-closures-in-the-ru/"
                 }
               ]
             },
             {
               "text": "",
-              "link": "https://benleff84.github.io/UrbanCrisis/pages/3-the-domino-effect-of-plant-closures-in-the/"
+              "link": "https://benleff84.github.io/UrbanCrisis/pages/the-domino-effect-of-plant-closures-in-the-ru/"
             }
           ]
         }
@@ -864,7 +868,8 @@
           "type": "list-item",
           "children": [
             {
-              "text": ""
+              "text": "",
+              "link": "https://benleff84.github.io/UrbanCrisis/pages/9-stopping-the-vicious-cycle-of-suburban--2/"
             },
             {
               "type": "link",
@@ -872,13 +877,13 @@
               "children": [
                 {
                   "text": "Stopping the “Vicious Cycle” of Suburban Flight (1978)",
-                  "link": "https://benleff84.github.io/UrbanCrisis/pages/9-stopping-the-vicious-cycle-of-suburban-f/"
+                  "link": "https://benleff84.github.io/UrbanCrisis/pages/9-stopping-the-vicious-cycle-of-suburban--2/"
                 }
               ]
             },
             {
               "text": "",
-              "link": "https://benleff84.github.io/UrbanCrisis/pages/9-stopping-the-vicious-cycle-of-suburban-f/"
+              "link": "https://benleff84.github.io/UrbanCrisis/pages/9-stopping-the-vicious-cycle-of-suburban--2/"
             }
           ]
         },
@@ -1159,7 +1164,7 @@
   "created_at": "2026-06-01T17:18:39.055Z",
   "created_by": "benleff84",
   "title": "The Urban Crisis",
-  "updated_at": "2026-06-03T00:12:02.135Z",
+  "updated_at": "2026-06-04T01:27:52.370Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
