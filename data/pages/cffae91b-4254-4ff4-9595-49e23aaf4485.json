@@ -67,8 +67,8 @@
       "children": [
         {
           "color": "#001be6",
-          "textSize": "heading-one",
-          "text": "Introduction & Context"
+          "text": "Introduction & Context",
+          "textSize": "heading-two"
         }
       ]
     },
@@ -453,7 +453,7 @@
         {
           "text": "Essential Question",
           "color": "#e60000",
-          "textSize": "heading-two"
+          "textSize": "heading-three"
         }
       ]
     },
@@ -560,7 +560,7 @@
           "text": "Classroom Activities",
           "highlight": "#ffffff",
           "color": "#e60000",
-          "textSize": "heading-two"
+          "textSize": "heading-three"
         }
       ]
     },
@@ -1113,7 +1113,7 @@
         {
           "text": "Additional Resources",
           "color": "#000fe6",
-          "textSize": "heading-one"
+          "textSize": "heading-two"
         }
       ]
     },
@@ -1189,7 +1189,7 @@
         {
           "text": "References",
           "color": "#000fe6",
-          "textSize": "heading-one"
+          "textSize": "heading-two"
         }
       ]
     },
@@ -1227,7 +1227,7 @@
   "created_at": "2026-06-01T17:18:39.055Z",
   "created_by": "benleff84",
   "title": "The Urban Crisis",
-  "updated_at": "2026-06-04T01:53:26.300Z",
+  "updated_at": "2026-06-04T01:54:32.107Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
