@@ -53,10 +53,12 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "heading-three",
       "children": [
         {
-          "text": ""
+          "color": "#001be6",
+          "text": "",
+          "textSize": "heading-one"
         }
       ]
     },
@@ -65,8 +67,8 @@
       "children": [
         {
           "color": "#001be6",
-          "text": "Introduction & Context",
-          "textSize": "heading-one"
+          "textSize": "heading-one",
+          "text": "Introduction & Context"
         }
       ]
     },
@@ -1225,7 +1227,7 @@
   "created_at": "2026-06-01T17:18:39.055Z",
   "created_by": "benleff84",
   "title": "The Urban Crisis",
-  "updated_at": "2026-06-04T01:47:08.386Z",
+  "updated_at": "2026-06-04T01:48:47.630Z",
   "updated_by": "benleff84",
   "autogenerate": {
     "enabled": false,
